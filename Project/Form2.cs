@@ -24,12 +24,7 @@ namespace Project
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form3 Cform = new Form3();
-            Cform.StartPosition = FormStartPosition.Manual;
-            Cform.Location = this.Location;
-
-            this.Hide();
-            Cform.Show();
+            
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -50,6 +45,16 @@ namespace Project
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Form3 Cform = new Form3();
+            Cform.StartPosition = FormStartPosition.Manual;
+            Cform.Location = this.Location;
+
+            this.Hide();
+            Cform.Show();
         }
     }
 }

@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Project
+namespace Project.Admin
 {
-    public partial class AdminStaffUI: Form
+    public partial class CourseAll: Form
     {
-        public AdminStaffUI()
+        public CourseAll()
         {
             InitializeComponent();
         }
@@ -27,34 +27,14 @@ namespace Project
 
         }
 
-        private void button4_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
+            AdminStaffUI facform = new AdminStaffUI();
+            facform.StartPosition = FormStartPosition.Manual;
+            facform.Location = this.Location;
 
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
+            this.Hide();
+            facform.Show();
         }
     }
 }

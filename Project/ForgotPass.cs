@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace Project
 {
-    public partial class HODUI: Form
+    public partial class ForgotPass: Form
     {
-        public HODUI()
+        public ForgotPass()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox6_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
