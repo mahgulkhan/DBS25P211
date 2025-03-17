@@ -49,7 +49,7 @@ namespace Project
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            Form3 Cform = new Form3();
+            Rollform Cform = new Rollform();
             Cform.StartPosition = FormStartPosition.Manual;
             Cform.Location = this.Location;
 

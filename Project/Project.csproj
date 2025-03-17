@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BCrypt.Net-Next, Version=4.0.3.0, Culture=neutral, PublicKeyToken=1e11be04b6288443, processorArchitecture=MSIL">
+      <HintPath>packages\BCrypt.Net-Next.4.0.3\lib\net48\BCrypt.Net-Next.dll</HintPath>
+    </Reference>
     <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
       <HintPath>packages\BouncyCastle.Cryptography.2.3.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
     </Reference>
@@ -215,6 +218,12 @@
     <Compile Include="Faculty\WorkloadView.Designer.cs">
       <DependentUpon>WorkloadView.cs</DependentUpon>
     </Compile>
+    <Compile Include="Rollform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rollform.Designer.cs">
+      <DependentUpon>Rollform.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Admin\AdminStaffUI.resx">
       <DependentUpon>AdminStaffUI.cs</DependentUpon>
     </EmbeddedResource>
@@ -281,6 +290,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Faculty\WorkloadView.resx">
       <DependentUpon>WorkloadView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rollform.resx">
+      <DependentUpon>Rollform.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

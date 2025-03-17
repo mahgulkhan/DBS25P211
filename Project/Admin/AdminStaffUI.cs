@@ -100,7 +100,7 @@ namespace Project
             reqform.Location = this.Location;
 
             this.Hide();
-            req form.Show();
+            reqform.Show();
         }
 
         private void label2_Click_1(object sender, EventArgs e)
