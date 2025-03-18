@@ -1,4 +1,7 @@
-﻿namespace Project
+﻿using System;
+using System.Windows.Forms;
+
+namespace Project
 {
     partial class AdminStaffUI
     {
@@ -153,6 +156,26 @@
             this.Text = "AdminStaffUI";
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void panel1_Paint_1(object sender, PaintEventArgs e)
+        {
 
         }
 

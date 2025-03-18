@@ -17,52 +17,12 @@ namespace Project
         {
             InitializeComponent();
         }
-
-        private void label1_Click(object sender, EventArgs e)
+        
+        public void LoadData()
         {
-
+            string query = "SELECT * FROM Users ";
+            var conn = DatabaseHelper.Instance.getData(query);
         }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint_1(object sender, PaintEventArgs e)
-        {
-
-        }
-
         private void button5_Click_1(object sender, EventArgs e)
         {
             CourseAll courseform = new CourseAll();
@@ -83,16 +43,6 @@ namespace Project
             facform.Show();
         }
 
-        private void label1_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click_1(object sender, EventArgs e)
         {
             ReqProc reqform = new ReqProc();
@@ -101,16 +51,6 @@ namespace Project
 
             this.Hide();
             reqform.Show();
-        }
-
-        private void label2_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click_1(object sender, EventArgs e)
-        {
-
         }
     }
 }

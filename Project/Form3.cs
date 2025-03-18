@@ -10,7 +10,6 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Lab2;
 using MySql.Data.MySqlClient;
 using Org.BouncyCastle.Crypto.Generators;
 using System.Security.Cryptography;
@@ -23,12 +22,14 @@ namespace Project
 
         public string username;
         public string password;
+        private int selectedroll;
       
-        public Form3()
+        public Form3(int role_id)
         {
             InitializeComponent();
             this.username = username;
             this.password = password;
+            this.selectedroll = role_id;
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -43,37 +44,30 @@ namespace Project
        
         public bool CheckCred(string username, string password)
         {
-            string query = $"SELECT * FROM Users WHERE username = '{username}'";
-            using (MySqlConnection conn = DatabaseHelper.Instance.getConnection())
-            {
-                using (MySqlCommand cmd = new MySqlCommand(query, conn))
-                {
-                    cmd.Parameters.AddWithValue("@username", username);
-                    object result = cmd.ExecuteScalar();
-                    if (result == null || result == DBNull.Value)
-                    {
-                        return false;
-                    }
-                    string storedHash = result.ToString();
-                    string enteredHash = HashPassword(password);
+            string query = $"SELECT * FROM Users WHERE username = '{username}' AND role_id = {selectedroll}";
+            var conn = DatabaseHelper.Instance.getData(query);
 
-                    return storedHash == enteredHash; 
+            if (conn.Read())
+            {
+                string storedHash = conn["password_hash"].ToString();
+                conn.Close();
+
+                string hashedInput = HashPassword(password);
+                if (storedHash == hashedInput)
+                {
+                    return true;
                 }
             }
+            return false;
         }
-
+       
         private string HashPassword(string password)
         {
-            using (MD5 md5 = MD5.Create())
+            using (SHA256 sha256 = SHA256.Create())
             {
-                byte[] inputBytes = Encoding.UTF8.GetBytes(password);
-                byte[] hashBytes = md5.ComputeHash(inputBytes);
-                StringBuilder builder = new StringBuilder();
-                foreach (byte b in hashBytes)
-                {
-                    builder.Append(b.ToString("x2")); 
-                }
-                return builder.ToString();
+                byte[] bytes = Encoding.UTF8.GetBytes(password);
+                byte[] hashBytes = sha256.ComputeHash(bytes);
+                return BitConverter.ToString(hashBytes).Replace("-", "").ToLower();
             }
         }
         private void textBox8_TextChanged(object sender, EventArgs e)
@@ -83,16 +77,45 @@ namespace Project
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string username = textBox8.Text.Trim();
-            string password = textBox3.Text.Trim();
+            username = textBox8.Text.Trim();
+            password = textBox3.Text.Trim();
+
+            if(string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
+            {
+                MessageBox.Show("Please fill in all fields.");
+                return;
+            }
+
             if (CheckCred(username, password))
             {
-                Rollform Sform = new Rollform();
-                Sform.StartPosition = FormStartPosition.Manual;
-                Sform.Location = this.Location;
+                MessageBox.Show("Login Successful");
 
-                this.Hide();
-                Sform.Show();
+                if (selectedroll == 1)
+                {
+                    AdminStaffUI Cform = new AdminStaffUI();
+                    Cform.StartPosition = FormStartPosition.Manual;
+                    Cform.Location = this.Location;
+
+                    this.Hide();
+                    Cform.Show();
+                }
+                else if (selectedroll==3)
+                {
+                    HODUI Cform = new HODUI();
+                    Cform.StartPosition = FormStartPosition.Manual;
+                    Cform.Location = this.Location;
+
+                    this.Hide();
+                    Cform.Show();
+                }
+                else if (selectedroll==2)
+                {
+                    FacultyUI Cform = new FacultyUI();
+                    Cform.StartPosition = FormStartPosition.Manual;
+                    Cform.Location = this.Location;
+                    this.Hide();
+                    Cform.Show();
+                }
             }
             else
             {
@@ -103,6 +126,26 @@ namespace Project
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Rollform Cform = new Rollform();
+            Cform.StartPosition = FormStartPosition.Manual;
+            Cform.Location = this.Location;
+
+            this.Hide();
+            Cform.Show();
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            ForgotPass Cform = new ForgotPass();
+            Cform.StartPosition = FormStartPosition.Manual;
+            Cform.Location = this.Location;
+
+            this.Hide();
+            Cform.Show();
         }
     }
 }

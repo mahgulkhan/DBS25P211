@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab2
+namespace Project
 {
     public class DatabaseHelper
     {
@@ -58,6 +58,16 @@ namespace Lab2
                 }
             }
 
+        }
+        public int GetUserId(string username)
+        {
+            string query = $"SELECT user_id FROM Users WHERE username = '{username}'";
+            var conn = DatabaseHelper.Instance.getData(query);
+            if (conn.Read())
+            {
+                return conn.GetInt32("user_id");
+            }
+            return 0;
         }
     }
 }

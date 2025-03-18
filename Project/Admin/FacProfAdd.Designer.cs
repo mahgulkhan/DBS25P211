@@ -31,6 +31,7 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.button2 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
@@ -45,6 +46,7 @@
             this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.button4);
+            this.panel1.Controls.Add(this.button3);
             this.panel1.Controls.Add(this.button5);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.label2);
@@ -57,6 +59,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1270, 500);
             this.panel1.TabIndex = 8;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // button2
             // 
@@ -75,12 +78,25 @@
             this.button4.BackColor = System.Drawing.Color.DarkCyan;
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button4.Location = new System.Drawing.Point(493, 322);
+            this.button4.Location = new System.Drawing.Point(494, 359);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(257, 53);
+            this.button4.Size = new System.Drawing.Size(257, 55);
             this.button4.TabIndex = 1;
             this.button4.Text = "Edit Profile";
             this.button4.UseVisualStyleBackColor = false;
+            // 
+            // button3
+            // 
+            this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.button3.BackColor = System.Drawing.Color.DarkCyan;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button3.Location = new System.Drawing.Point(494, 241);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(257, 54);
+            this.button3.TabIndex = 1;
+            this.button3.Text = "View All Profiles\r\n";
+            this.button3.UseVisualStyleBackColor = false;
             // 
             // button5
             // 
@@ -88,12 +104,13 @@
             this.button5.BackColor = System.Drawing.Color.DarkCyan;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button5.Location = new System.Drawing.Point(493, 256);
+            this.button5.Location = new System.Drawing.Point(494, 301);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(257, 60);
+            this.button5.Size = new System.Drawing.Size(257, 54);
             this.button5.TabIndex = 1;
             this.button5.Text = " Add Profile";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button1
             // 
@@ -101,9 +118,9 @@
             this.button1.BackColor = System.Drawing.Color.DarkCyan;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button1.Location = new System.Drawing.Point(493, 381);
+            this.button1.Location = new System.Drawing.Point(494, 418);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(257, 53);
+            this.button1.Size = new System.Drawing.Size(257, 55);
             this.button1.TabIndex = 1;
             this.button1.Text = "Delete Profile";
             this.button1.UseVisualStyleBackColor = false;
@@ -173,5 +190,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button3;
     }
 }

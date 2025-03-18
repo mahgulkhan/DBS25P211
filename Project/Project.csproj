@@ -101,6 +101,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admin\AddProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AddProf.Designer.cs">
+      <DependentUpon>AddProf.cs</DependentUpon>
+    </Compile>
     <Compile Include="Admin\AdminStaffUI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -224,6 +230,9 @@
     <Compile Include="Rollform.Designer.cs">
       <DependentUpon>Rollform.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Admin\AddProf.resx">
+      <DependentUpon>AddProf.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Admin\AdminStaffUI.resx">
       <DependentUpon>AdminStaffUI.cs</DependentUpon>
     </EmbeddedResource>

@@ -108,3 +108,4 @@ D:\2nd sem\DataBase Lab\week7\DB Project\Project\obj\Debug\Project.Admin.ReqProc
 D:\2nd sem\DataBase Lab\week7\DB Project\Project\obj\Debug\Project.Rollform.resources
 D:\2nd sem\DataBase Lab\week7\DB Project\Project\bin\Debug\BCrypt.Net-Next.dll
 D:\2nd sem\DataBase Lab\week7\DB Project\Project\bin\Debug\BCrypt.Net-Next.xml
+D:\2nd sem\DataBase Lab\week7\DB Project\Project\obj\Debug\Project.Admin.AddProf.resources
