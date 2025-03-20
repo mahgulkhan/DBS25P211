@@ -101,11 +101,41 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admin\AddCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AddCourse.Designer.cs">
+      <DependentUpon>AddCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AddItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AddItem.Designer.cs">
+      <DependentUpon>AddItem.cs</DependentUpon>
+    </Compile>
     <Compile Include="Admin\AddProf.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Admin\AddProf.Designer.cs">
       <DependentUpon>AddProf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AddProj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AddProj.Designer.cs">
+      <DependentUpon>AddProj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AddRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AddRoom.Designer.cs">
+      <DependentUpon>AddRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AddSem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AddSem.Designer.cs">
+      <DependentUpon>AddSem.cs</DependentUpon>
     </Compile>
     <Compile Include="Admin\AdminStaffUI.cs">
       <SubType>Form</SubType>
@@ -113,6 +143,44 @@
     <Compile Include="Admin\AdminStaffUI.Designer.cs">
       <DependentUpon>AdminStaffUI.cs</DependentUpon>
     </Compile>
+    <Compile Include="Admin\CourseCrud.cs" />
+    <Compile Include="Admin\DelCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\DelCourse.Designer.cs">
+      <DependentUpon>DelCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\DelItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\DelItem.Designer.cs">
+      <DependentUpon>DelItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\DelProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\DelProf.Designer.cs">
+      <DependentUpon>DelProf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\DelProj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\DelProj.Designer.cs">
+      <DependentUpon>DelProj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\DelRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\DelRoom.Designer.cs">
+      <DependentUpon>DelRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\DelSem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\DelSem.Designer.cs">
+      <DependentUpon>DelSem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FacCrud.cs" />
     <Compile Include="Admin\FacProfAdd.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -131,11 +199,105 @@
     <Compile Include="Admin\Inventory.Designer.cs">
       <DependentUpon>Inventory.cs</DependentUpon>
     </Compile>
+    <Compile Include="Admin\InventoryCrud.cs" />
+    <Compile Include="Admin\ProjCrud.cs" />
+    <Compile Include="Admin\ProjectManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ProjectManage.Designer.cs">
+      <DependentUpon>ProjectManage.cs</DependentUpon>
+    </Compile>
     <Compile Include="Admin\ReqProc.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Admin\ReqProc.Designer.cs">
       <DependentUpon>ReqProc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Room.Designer.cs">
+      <DependentUpon>Room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\RoomCrud.cs" />
+    <Compile Include="Admin\Sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Sem.Designer.cs">
+      <DependentUpon>Sem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SemCrud.cs" />
+    <Compile Include="Admin\UpdateCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\UpdateCourse.Designer.cs">
+      <DependentUpon>UpdateCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UpdateItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\UpdateItem.Designer.cs">
+      <DependentUpon>UpdateItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UpdateProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\UpdateProf.Designer.cs">
+      <DependentUpon>UpdateProf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UpdateProj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\UpdateProj.Designer.cs">
+      <DependentUpon>UpdateProj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UpdateRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\UpdateRoom.Designer.cs">
+      <DependentUpon>UpdateRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UpdateSem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\UpdateSem.Designer.cs">
+      <DependentUpon>UpdateSem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ViewAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ViewAll.Designer.cs">
+      <DependentUpon>ViewAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ViewCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ViewCourse.Designer.cs">
+      <DependentUpon>ViewCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ViewItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ViewItems.Designer.cs">
+      <DependentUpon>ViewItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ViewProj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ViewProj.Designer.cs">
+      <DependentUpon>ViewProj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ViewRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ViewRoom.Designer.cs">
+      <DependentUpon>ViewRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ViewSem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ViewSem.Designer.cs">
+      <DependentUpon>ViewSem.cs</DependentUpon>
     </Compile>
     <Compile Include="DatabaseHelper.cs" />
     <Compile Include="HOD\DepResAll.cs">
@@ -230,11 +392,44 @@
     <Compile Include="Rollform.Designer.cs">
       <DependentUpon>Rollform.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Admin\AddCourse.resx">
+      <DependentUpon>AddCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AddItem.resx">
+      <DependentUpon>AddItem.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Admin\AddProf.resx">
       <DependentUpon>AddProf.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AddProj.resx">
+      <DependentUpon>AddProj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AddRoom.resx">
+      <DependentUpon>AddRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AddSem.resx">
+      <DependentUpon>AddSem.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Admin\AdminStaffUI.resx">
       <DependentUpon>AdminStaffUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\DelCourse.resx">
+      <DependentUpon>DelCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\DelItem.resx">
+      <DependentUpon>DelItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\DelProf.resx">
+      <DependentUpon>DelProf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\DelProj.resx">
+      <DependentUpon>DelProj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\DelRoom.resx">
+      <DependentUpon>DelRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\DelSem.resx">
+      <DependentUpon>DelSem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Admin\FacProfAdd.resx">
       <DependentUpon>FacProfAdd.cs</DependentUpon>
@@ -245,8 +440,53 @@
     <EmbeddedResource Include="Admin\Inventory.resx">
       <DependentUpon>Inventory.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ProjectManage.resx">
+      <DependentUpon>ProjectManage.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Admin\ReqProc.resx">
       <DependentUpon>ReqProc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Room.resx">
+      <DependentUpon>Room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Sem.resx">
+      <DependentUpon>Sem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UpdateCourse.resx">
+      <DependentUpon>UpdateCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UpdateItem.resx">
+      <DependentUpon>UpdateItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UpdateProf.resx">
+      <DependentUpon>UpdateProf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UpdateProj.resx">
+      <DependentUpon>UpdateProj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UpdateRoom.resx">
+      <DependentUpon>UpdateRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UpdateSem.resx">
+      <DependentUpon>UpdateSem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ViewAll.resx">
+      <DependentUpon>ViewAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ViewCourse.resx">
+      <DependentUpon>ViewCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ViewItems.resx">
+      <DependentUpon>ViewItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ViewProj.resx">
+      <DependentUpon>ViewProj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ViewRoom.resx">
+      <DependentUpon>ViewRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ViewSem.resx">
+      <DependentUpon>ViewSem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="HOD\DepResAll.resx">
       <DependentUpon>DepResAll.cs</DependentUpon>

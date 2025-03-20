@@ -52,5 +52,32 @@ namespace Project
             this.Hide();
             reqform.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Inventory inventory = new Inventory();
+            inventory.StartPosition = FormStartPosition.Manual;
+            inventory.Location = this.Location;
+            this.Hide();
+            inventory.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Room room = new Room();
+            room.StartPosition = FormStartPosition.Manual;
+            room.Location = this.Location;
+            this.Hide();
+            room.Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Sem sem = new Sem();
+            sem.StartPosition = FormStartPosition.Manual;
+            sem.Location = this.Location;
+            this.Hide();
+            sem.Show();
+        }
     }
 }

@@ -20,15 +20,15 @@ namespace Project
     public partial class Form3: Form
     {
 
-        public string username;
-        public string password;
+        public string username { get; set; }
+        public string password { get; set; } 
         private int selectedroll;
       
         public Form3(int role_id)
         {
             InitializeComponent();
-            this.username = username;
-            this.password = password;
+            username = username;
+            password = password;
             this.selectedroll = role_id;
         }
 

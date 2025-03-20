@@ -46,5 +46,32 @@ namespace Project.Admin
         {
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            UpdateProf updateProf = new UpdateProf();
+            updateProf.StartPosition = FormStartPosition.Manual;
+            updateProf.Location = this.Location;
+            this.Hide();
+            updateProf.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DelProf delProf = new DelProf();
+            delProf.StartPosition = FormStartPosition.Manual;
+            delProf.Location = this.Location;
+            this.Hide();
+            delProf.Show(); 
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            ViewAll viewAll = new ViewAll();
+            viewAll.StartPosition = FormStartPosition.Manual;
+            viewAll.Location = this.Location;
+            this.Hide();
+            viewAll.Show();
+        }
     }
 }

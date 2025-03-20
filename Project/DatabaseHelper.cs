@@ -59,15 +59,5 @@ namespace Project
             }
 
         }
-        public int GetUserId(string username)
-        {
-            string query = $"SELECT user_id FROM Users WHERE username = '{username}'";
-            var conn = DatabaseHelper.Instance.getData(query);
-            if (conn.Read())
-            {
-                return conn.GetInt32("user_id");
-            }
-            return 0;
-        }
     }
 }
