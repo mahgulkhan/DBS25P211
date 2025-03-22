@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Project.Faculty;
 
 namespace Project
 {
@@ -25,6 +26,47 @@ namespace Project
 
             this.Hide();
             facform.Show();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            AddReq addReq = new AddReq();
+            addReq.StartPosition = FormStartPosition.Manual;
+            addReq.Location = this.Location;
+            this.Hide();
+            addReq.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            UpdateReq updateReq = new UpdateReq();
+            updateReq.StartPosition = FormStartPosition.Manual;
+            updateReq.Location = this.Location;
+            this.Hide();
+            updateReq.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DelReq delReq = new DelReq();
+            delReq.StartPosition = FormStartPosition.Manual;
+            delReq.Location = this.Location;
+            this.Hide();
+            delReq.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            FacReqstat facReqstat = new FacReqstat();
+            facReqstat.StartPosition = FormStartPosition.Manual;
+            facReqstat.Location = this.Location;
+            this.Hide();
+            facReqstat.Show();
         }
     }
 }

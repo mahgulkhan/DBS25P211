@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button2 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
@@ -42,8 +42,8 @@
             // 
             this.panel1.BackgroundImage = global::Project.Properties.Resources._3dcf446280afa4566b01913b7e6b20b9;
             this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.button5);
-            this.panel1.Controls.Add(this.button4);
             this.panel1.Controls.Add(this.button3);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.label2);
@@ -56,33 +56,32 @@
             this.panel1.Size = new System.Drawing.Size(1144, 515);
             this.panel1.TabIndex = 4;
             // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.Sienna;
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button2.Location = new System.Drawing.Point(906, 344);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(128, 52);
+            this.button2.TabIndex = 4;
+            this.button2.Text = "Exit";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
+            // 
             // button5
             // 
             this.button5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.button5.BackColor = System.Drawing.Color.DarkCyan;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button5.Location = new System.Drawing.Point(342, 276);
+            this.button5.Location = new System.Drawing.Point(325, 217);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(438, 55);
             this.button5.TabIndex = 1;
-            this.button5.Text = "Workload Assignment";
+            this.button5.Text = "Workload Management";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
-            // 
-            // button4
-            // 
-            this.button4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.button4.BackColor = System.Drawing.Color.DarkCyan;
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button4.Location = new System.Drawing.Point(342, 214);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(438, 56);
-            this.button4.TabIndex = 1;
-            this.button4.Text = "Faculty Requests";
-            this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
@@ -90,9 +89,9 @@
             this.button3.BackColor = System.Drawing.Color.DarkCyan;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button3.Location = new System.Drawing.Point(342, 396);
+            this.button3.Location = new System.Drawing.Point(325, 337);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(438, 64);
+            this.button3.Size = new System.Drawing.Size(438, 59);
             this.button3.TabIndex = 1;
             this.button3.Text = "Reports Analytics";
             this.button3.UseVisualStyleBackColor = false;
@@ -104,7 +103,7 @@
             this.button1.BackColor = System.Drawing.Color.DarkCyan;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button1.Location = new System.Drawing.Point(342, 337);
+            this.button1.Location = new System.Drawing.Point(325, 278);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(438, 53);
             this.button1.TabIndex = 1;
@@ -149,6 +148,7 @@
             this.MinimumSize = new System.Drawing.Size(950, 500);
             this.Name = "HODUI";
             this.Text = "HODUI";
+            this.Load += new System.EventHandler(this.HODUI_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -158,10 +158,10 @@
 
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button2;
     }
 }

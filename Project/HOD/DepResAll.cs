@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Project.HOD;
 
 namespace Project
 {
@@ -29,7 +30,11 @@ namespace Project
 
         private void button5_Click(object sender, EventArgs e)
         {
-
+            RoomAll roomAll = new RoomAll();
+            roomAll.StartPosition = FormStartPosition.Manual;
+            roomAll.Location = this.Location;
+            this.Hide();
+            roomAll.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)

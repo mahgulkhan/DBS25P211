@@ -29,13 +29,14 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -43,6 +44,7 @@
             // 
             this.panel1.BackgroundImage = global::Project.Properties.Resources._3dcf446280afa4566b01913b7e6b20b9;
             this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel1.Controls.Add(this.button4);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.button5);
             this.panel1.Controls.Add(this.button3);
@@ -57,6 +59,31 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1096, 556);
             this.panel1.TabIndex = 5;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // button4
+            // 
+            this.button4.BackColor = System.Drawing.Color.DarkCyan;
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button4.Location = new System.Drawing.Point(429, 409);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(231, 58);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "Administrative Duties";
+            this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // button2
+            // 
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(32, 392);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(156, 46);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "Previos Page";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button5
             // 
@@ -64,9 +91,9 @@
             this.button5.BackColor = System.Drawing.Color.DarkCyan;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button5.Location = new System.Drawing.Point(454, 280);
+            this.button5.Location = new System.Drawing.Point(429, 219);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(188, 55);
+            this.button5.Size = new System.Drawing.Size(232, 55);
             this.button5.TabIndex = 1;
             this.button5.Text = "Assign Courses";
             this.button5.UseVisualStyleBackColor = false;
@@ -78,11 +105,11 @@
             this.button3.BackColor = System.Drawing.Color.DarkCyan;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button3.Location = new System.Drawing.Point(454, 417);
+            this.button3.Location = new System.Drawing.Point(429, 345);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(188, 58);
+            this.button3.Size = new System.Drawing.Size(232, 58);
             this.button3.TabIndex = 1;
-            this.button3.Text = "Admin Duties";
+            this.button3.Text = "Assign Workload";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -92,9 +119,9 @@
             this.button1.BackColor = System.Drawing.Color.DarkCyan;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button1.Location = new System.Drawing.Point(454, 341);
+            this.button1.Location = new System.Drawing.Point(429, 280);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(188, 70);
+            this.button1.Size = new System.Drawing.Size(232, 59);
             this.button1.TabIndex = 1;
             this.button1.Text = "Research Supervision";
             this.button1.UseVisualStyleBackColor = false;
@@ -136,19 +163,8 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(416, 47);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Workload Assignment";
+            this.label1.Text = "Workload Management";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // button2
-            // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(36, 428);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(156, 46);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Previos Page";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // WorkLoadAssign
             // 
@@ -175,5 +191,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button4;
     }
 }

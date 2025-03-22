@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Project.Faculty;
 
 namespace Project
 {
@@ -155,6 +156,20 @@ namespace Project
         private void label1_Click_1(object sender, EventArgs e)
         {
 
+        }
+
+        private void label3_Click_1(object sender, EventArgs e)
+        {
+            ProjectSup projectSup = new ProjectSup();
+            projectSup.StartPosition = FormStartPosition.Manual;
+            projectSup.Location = this.Location;
+            this.Hide();
+            projectSup.Show();
+        }
+
+        private void button2_Click_2(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
         }
     }
 }

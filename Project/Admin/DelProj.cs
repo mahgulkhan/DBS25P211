@@ -33,5 +33,14 @@ namespace Project.Admin
             del();
             MessageBox.Show("The project has been deleted");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ProjectManage projectManage = new ProjectManage();
+            projectManage.StartPosition = FormStartPosition.Manual;
+            projectManage.Location = this.Location;
+            this.Hide();
+            projectManage.Show();
+        }
     }
 }

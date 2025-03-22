@@ -39,5 +39,10 @@ namespace Project.Admin
             this.Hide();
             projectManage.Show();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

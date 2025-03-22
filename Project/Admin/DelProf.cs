@@ -20,7 +20,7 @@ namespace Project.Admin
         public void Delprof()
         {
             int faculty_id = int.Parse(textBox6.Text);
-            int user_id = int.Parse(this.textBox6.Text);
+            int user_id = int.Parse(this.textBox1.Text);
             FacCrud facCrud = new FacCrud("","","",0,"","",0,0,user_id,faculty_id);
             facCrud.DeleteProfile();
         }

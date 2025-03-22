@@ -300,6 +300,104 @@
       <DependentUpon>ViewSem.cs</DependentUpon>
     </Compile>
     <Compile Include="DatabaseHelper.cs" />
+    <Compile Include="Faculty\AddReq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faculty\AddReq.Designer.cs">
+      <DependentUpon>AddReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Faculty\DelReq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faculty\DelReq.Designer.cs">
+      <DependentUpon>DelReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Faculty\ProjectSup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faculty\ProjectSup.Designer.cs">
+      <DependentUpon>ProjectSup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Faculty\ReqCrud.cs" />
+    <Compile Include="Faculty\UpdateReq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faculty\UpdateReq.Designer.cs">
+      <DependentUpon>UpdateReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\AddAdminRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\AddAdminRole.Designer.cs">
+      <DependentUpon>AddAdminRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\AddProjSup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\AddProjSup.Designer.cs">
+      <DependentUpon>AddProjSup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\AddSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\AddSchedule.Designer.cs">
+      <DependentUpon>AddSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\AdminDuty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\AdminDuty.Designer.cs">
+      <DependentUpon>AdminDuty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\AssignCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\AssignCourse.Designer.cs">
+      <DependentUpon>AssignCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\AssignCouseCrud.cs" />
+    <Compile Include="HOD\AssignRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\AssignRoom.Designer.cs">
+      <DependentUpon>AssignRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\CourseAssign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\CourseAssign.Designer.cs">
+      <DependentUpon>CourseAssign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\DelAdminRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\DelAdminRole.Designer.cs">
+      <DependentUpon>DelAdminRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\DelAssignCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\DelAssignCourse.Designer.cs">
+      <DependentUpon>DelAssignCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\DelProj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\DelProj.Designer.cs">
+      <DependentUpon>DelProj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\DelRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\DelRoom.Designer.cs">
+      <DependentUpon>DelRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\DelSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\DelSchedule.Designer.cs">
+      <DependentUpon>DelSchedule.cs</DependentUpon>
+    </Compile>
     <Compile Include="HOD\DepResAll.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -365,6 +463,88 @@
     </Compile>
     <Compile Include="HOD\HODUI.Designer.cs">
       <DependentUpon>HODUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\AdminRoleCrud.cs" />
+    <Compile Include="HOD\ProjCrud.cs" />
+    <Compile Include="HOD\RequestApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\RequestApproval.Designer.cs">
+      <DependentUpon>RequestApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\ResearchSup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\ResearchSup.Designer.cs">
+      <DependentUpon>ResearchSup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\RoomAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\RoomAll.Designer.cs">
+      <DependentUpon>RoomAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\RoomCrud.cs" />
+    <Compile Include="HOD\ScheduleAssign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\ScheduleAssign.Designer.cs">
+      <DependentUpon>ScheduleAssign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\ScheduleCrud.cs" />
+    <Compile Include="HOD\UpdateAdminRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\UpdateAdminRole.Designer.cs">
+      <DependentUpon>UpdateAdminRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\UpdateAssignCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\UpdateAssignCourse.Designer.cs">
+      <DependentUpon>UpdateAssignCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\UpdateProj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\UpdateProj.Designer.cs">
+      <DependentUpon>UpdateProj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\UpdateRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\UpdateRoom.Designer.cs">
+      <DependentUpon>UpdateRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\UpdateSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\UpdateSchedule.Designer.cs">
+      <DependentUpon>UpdateSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\ViewAdminRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\ViewAdminRole.Designer.cs">
+      <DependentUpon>ViewAdminRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\ViewAssignedCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\ViewAssignedCourses.Designer.cs">
+      <DependentUpon>ViewAssignedCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\ViewAssignedProj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\ViewAssignedProj.Designer.cs">
+      <DependentUpon>ViewAssignedProj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOD\ViewAssignSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOD\ViewAssignSchedule.Designer.cs">
+      <DependentUpon>ViewAssignSchedule.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -488,6 +668,48 @@
     <EmbeddedResource Include="Admin\ViewSem.resx">
       <DependentUpon>ViewSem.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Faculty\AddReq.resx">
+      <DependentUpon>AddReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Faculty\DelReq.resx">
+      <DependentUpon>DelReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Faculty\ProjectSup.resx">
+      <DependentUpon>ProjectSup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Faculty\UpdateReq.resx">
+      <DependentUpon>UpdateReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\AddAdminRole.resx">
+      <DependentUpon>AddAdminRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\AddProjSup.resx">
+      <DependentUpon>AddProjSup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\AddSchedule.resx">
+      <DependentUpon>AddSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\AdminDuty.resx">
+      <DependentUpon>AdminDuty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\AssignCourse.resx">
+      <DependentUpon>AssignCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\CourseAssign.resx">
+      <DependentUpon>CourseAssign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\DelAdminRole.resx">
+      <DependentUpon>DelAdminRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\DelAssignCourse.resx">
+      <DependentUpon>DelAssignCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\DelProj.resx">
+      <DependentUpon>DelProj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\DelSchedule.resx">
+      <DependentUpon>DelSchedule.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="HOD\DepResAll.resx">
       <DependentUpon>DepResAll.cs</DependentUpon>
     </EmbeddedResource>
@@ -520,6 +742,42 @@
     </EmbeddedResource>
     <EmbeddedResource Include="HOD\HODUI.resx">
       <DependentUpon>HODUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\RequestApproval.resx">
+      <DependentUpon>RequestApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\ResearchSup.resx">
+      <DependentUpon>ResearchSup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\RoomAll.resx">
+      <DependentUpon>RoomAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\ScheduleAssign.resx">
+      <DependentUpon>ScheduleAssign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\UpdateAdminRole.resx">
+      <DependentUpon>UpdateAdminRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\UpdateAssignCourse.resx">
+      <DependentUpon>UpdateAssignCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\UpdateProj.resx">
+      <DependentUpon>UpdateProj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\UpdateSchedule.resx">
+      <DependentUpon>UpdateSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\ViewAdminRole.resx">
+      <DependentUpon>ViewAdminRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\ViewAssignedCourses.resx">
+      <DependentUpon>ViewAssignedCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\ViewAssignedProj.resx">
+      <DependentUpon>ViewAssignedProj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOD\ViewAssignSchedule.resx">
+      <DependentUpon>ViewAssignSchedule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

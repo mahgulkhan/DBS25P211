@@ -3,28 +3,288 @@
   "WorkspaceRootPath": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\repanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\repanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\hodui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\hodui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\roomcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\roomcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\hodui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\hodui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\depresall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\depresall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\depresall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\depresall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\viewassignschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\viewassignschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\viewassignedproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\viewassignedproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\viewassignedproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\viewassignedproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\viewassignschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\viewassignschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\scheduleassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\scheduleassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\scheduleassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\scheduleassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\researchsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\researchsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\researchsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\researchsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\workloadassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\workloadassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\workloadassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\workloadassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\delassigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\delassigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\delassigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\delassigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\deladminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\deladminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\deladminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\deladminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\assigncousecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\assigncousecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\courseassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\courseassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\courseassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\courseassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\updateassigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\updateassigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\assigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\assigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\viewassignedcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\viewassignedcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\viewassignedcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\viewassignedcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\viewadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\viewadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\updateassigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\updateassigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\assigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\assigncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\addprojsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\addprojsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\addprojsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\addprojsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\updateproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\updateproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\delproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\delproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\updateproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\updateproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\delproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\delproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\faculty\\projectsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\projectsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\adminrolecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\adminrolecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\faculty\\projectsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\projectsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\projcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\projcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\addadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\addadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\addadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\addadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\adminduty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\adminduty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\updateadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\updateadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\updateadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\updateadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facultyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facultyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facreqstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facreqstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facreqstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facreqstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facreqsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facreqsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\viewadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\viewadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\adminduty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\adminduty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\addreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\addreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\addreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\addreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\hod\\workloadassign.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\workloadassign.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\delprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\delprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\faccrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\faccrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\updatereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\updatereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\updatereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\updatereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facreqsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facreqsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\delreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\delreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\delreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\delreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\reqcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\reqcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\workloadview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\workloadview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\delitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\addprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\addproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facultyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facultyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\adminstaffui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,60 +295,164 @@
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\adminstaffui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\sem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\workloadview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\workloadview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\addprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\semcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\semcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\repanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\repanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\addproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\projectmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\projectmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\projectmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\projectmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\sem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\sem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\sem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\sem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\adminstaffui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\adminstaffui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\adminstaffui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\adminstaffui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\viewroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\addsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\viewroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\addsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\delroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\delroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\delroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\updatesem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updatesem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\updatesem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updatesem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\delsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\delsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delsem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\facreqman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\facreqman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\roomcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\roomcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\adminstaffui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\adminstaffui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\adminstaffui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\adminstaffui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\delroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\delcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\delcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -103,72 +467,48 @@
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\inventorycrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\inventorycrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\inventorycrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\viewitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\viewitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\delitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\delitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\delitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\viewcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\viewcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\courseall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\courseall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\coursecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\coursecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\coursecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\delcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\delcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\courseall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\courseall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\rollform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -179,32 +519,12 @@
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:rollform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\addprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\addprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\addprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\updateprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\updateprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\updateprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\facprofadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\facprofadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\facprofadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\delprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\delprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|d:\\2nd sem\\database lab\\week7\\db project\\project\\admin\\faccrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\faccrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facultyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facultyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\facprofadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -239,76 +559,12 @@
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\depresall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\depresall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\facreqman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\facreqman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\hodui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\hodui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facreqsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facreqsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facreqstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facreqstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\workloadview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\workloadview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\workloadassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\workloadassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\repanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\repanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\facreqman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\facreqman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\depresall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\depresall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\admin\\reqproc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:admin\\reqproc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\hod\\hodui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:hod\\hodui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facultyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facultyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\workloadview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\workloadview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facreqstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facreqstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\faculty\\facreqsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C067F55-F40F-4E1E-BDD3-99839D5A8917}|Project.csproj|solutionrelative:faculty\\facreqsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -318,284 +574,649 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddRoom.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddRoom.cs",
-              "RelativeDocumentMoniker": "Admin\\AddRoom.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddRoom.cs",
-              "RelativeToolTip": "Admin\\AddRoom.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswB8AAAANAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ViewAssignSchedule.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignSchedule.cs",
+              "RelativeDocumentMoniker": "HOD\\ViewAssignSchedule.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignSchedule.cs",
+              "RelativeToolTip": "HOD\\ViewAssignSchedule.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:59:55.51Z",
+              "WhenOpened": "2025-03-22T12:55:06.811Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Room.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Room.cs",
-              "RelativeDocumentMoniker": "Admin\\Room.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Room.cs [Design]",
-              "RelativeToolTip": "Admin\\Room.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:49:34.056Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AdminStaffUI.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.cs",
-              "RelativeDocumentMoniker": "Admin\\AdminStaffUI.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.cs [Design]",
-              "RelativeToolTip": "Admin\\AdminStaffUI.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T11:14:36.423Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AdminStaffUI.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.cs",
-              "RelativeDocumentMoniker": "Admin\\AdminStaffUI.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.cs",
-              "RelativeToolTip": "Admin\\AdminStaffUI.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFEAAAAFAAAAAAAAAA==",
+              "Title": "ViewAssignedProj.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignedProj.cs",
+              "RelativeDocumentMoniker": "HOD\\ViewAssignedProj.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignedProj.cs",
+              "RelativeToolTip": "HOD\\ViewAssignedProj.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:41:39.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Room.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Room.cs",
-              "RelativeDocumentMoniker": "Admin\\Room.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Room.cs",
-              "RelativeToolTip": "Admin\\Room.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:49:59.599Z",
+              "WhenOpened": "2025-03-22T09:56:14.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddRoom.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddRoom.cs",
-              "RelativeDocumentMoniker": "Admin\\AddRoom.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddRoom.cs [Design]",
-              "RelativeToolTip": "Admin\\AddRoom.cs [Design]",
+              "Title": "HODUI.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\HODUI.cs",
+              "RelativeDocumentMoniker": "HOD\\HODUI.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\HODUI.cs [Design]",
+              "RelativeToolTip": "HOD\\HODUI.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:54:14.167Z",
+              "WhenOpened": "2025-03-07T21:02:34.543Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RoomCrud.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\RoomCrud.cs",
-              "RelativeDocumentMoniker": "Admin\\RoomCrud.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\RoomCrud.cs",
-              "RelativeToolTip": "Admin\\RoomCrud.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCYAAAAJAAAAAAAAAA==",
+              "Title": "HODUI.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\HODUI.cs",
+              "RelativeDocumentMoniker": "HOD\\HODUI.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\HODUI.cs",
+              "RelativeToolTip": "HOD\\HODUI.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:04:12.822Z",
+              "WhenOpened": "2025-03-07T21:03:11.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DatabaseHelper.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\DatabaseHelper.cs",
-              "RelativeDocumentMoniker": "DatabaseHelper.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\DatabaseHelper.cs",
-              "RelativeToolTip": "DatabaseHelper.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADgAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DepResAll.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DepResAll.cs",
+              "RelativeDocumentMoniker": "HOD\\DepResAll.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DepResAll.cs",
+              "RelativeToolTip": "HOD\\DepResAll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T09:53:23.267Z",
+              "WhenOpened": "2025-03-07T19:50:05.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AdminStaffUI.resx",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.resx",
-              "RelativeDocumentMoniker": "Admin\\AdminStaffUI.resx",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.resx",
-              "RelativeToolTip": "Admin\\AdminStaffUI.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-03-20T16:25:31.486Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "DepResAll.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DepResAll.cs",
+              "RelativeDocumentMoniker": "HOD\\DepResAll.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DepResAll.cs [Design]",
+              "RelativeToolTip": "HOD\\DepResAll.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:43:34.743Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminStaffUI.Designer.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.Designer.cs",
-              "RelativeDocumentMoniker": "Admin\\AdminStaffUI.Designer.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.Designer.cs",
-              "RelativeToolTip": "Admin\\AdminStaffUI.Designer.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RepAnalysis.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\RepAnalysis.cs",
+              "RelativeDocumentMoniker": "HOD\\RepAnalysis.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\RepAnalysis.cs [Design]",
+              "RelativeToolTip": "HOD\\RepAnalysis.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:25:35.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T18:21:06.243Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewAssignedProj.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignedProj.cs",
+              "RelativeDocumentMoniker": "HOD\\ViewAssignedProj.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignedProj.cs [Design]",
+              "RelativeToolTip": "HOD\\ViewAssignedProj.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:55:21.554Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Sem.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Sem.cs",
-              "RelativeDocumentMoniker": "Admin\\Sem.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Sem.cs [Design]",
-              "RelativeToolTip": "Admin\\Sem.cs [Design]",
+              "Title": "ViewAssignSchedule.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignSchedule.cs",
+              "RelativeDocumentMoniker": "HOD\\ViewAssignSchedule.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignSchedule.cs [Design]",
+              "RelativeToolTip": "HOD\\ViewAssignSchedule.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:35:12.656Z",
+              "WhenOpened": "2025-03-22T12:54:02.702Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScheduleAssign.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ScheduleAssign.cs",
+              "RelativeDocumentMoniker": "HOD\\ScheduleAssign.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ScheduleAssign.cs [Design]",
+              "RelativeToolTip": "HOD\\ScheduleAssign.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:02:34.469Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScheduleAssign.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ScheduleAssign.cs",
+              "RelativeDocumentMoniker": "HOD\\ScheduleAssign.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ScheduleAssign.cs",
+              "RelativeToolTip": "HOD\\ScheduleAssign.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:52:13.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ViewRoom.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewRoom.cs",
-              "RelativeDocumentMoniker": "Admin\\ViewRoom.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewRoom.cs",
-              "RelativeToolTip": "Admin\\ViewRoom.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswBYAAAAMAAAAAAAAAA==",
+              "Title": "ResearchSup.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ResearchSup.cs",
+              "RelativeDocumentMoniker": "HOD\\ResearchSup.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ResearchSup.cs [Design]",
+              "RelativeToolTip": "HOD\\ResearchSup.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:52:29.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ViewRoom.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewRoom.cs",
-              "RelativeDocumentMoniker": "Admin\\ViewRoom.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewRoom.cs [Design]",
-              "RelativeToolTip": "Admin\\ViewRoom.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:51:27.139Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DelRoom.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelRoom.cs",
-              "RelativeDocumentMoniker": "Admin\\DelRoom.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelRoom.cs",
-              "RelativeToolTip": "Admin\\DelRoom.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:09:21.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UpdateRoom.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateRoom.cs",
-              "RelativeDocumentMoniker": "Admin\\UpdateRoom.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateRoom.cs [Design]",
-              "RelativeToolTip": "Admin\\UpdateRoom.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:13:15.903Z",
+              "WhenOpened": "2025-03-22T09:47:16.487Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "UpdateRoom.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateRoom.cs",
-              "RelativeDocumentMoniker": "Admin\\UpdateRoom.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateRoom.cs",
-              "RelativeToolTip": "Admin\\UpdateRoom.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAswEwAAAAYAAAAAAAAAA==",
+              "Title": "WorkLoadAssign.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\WorkLoadAssign.cs",
+              "RelativeDocumentMoniker": "HOD\\WorkLoadAssign.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\WorkLoadAssign.cs",
+              "RelativeToolTip": "HOD\\WorkLoadAssign.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:16:55.255Z",
+              "WhenOpened": "2025-03-07T19:40:50.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkLoadAssign.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\WorkLoadAssign.cs",
+              "RelativeDocumentMoniker": "HOD\\WorkLoadAssign.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\WorkLoadAssign.cs [Design]",
+              "RelativeToolTip": "HOD\\WorkLoadAssign.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:21:15.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResearchSup.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ResearchSup.cs",
+              "RelativeDocumentMoniker": "HOD\\ResearchSup.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ResearchSup.cs",
+              "RelativeToolTip": "HOD\\ResearchSup.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:48:07.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DelAssignCourse.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelAssignCourse.cs",
+              "RelativeDocumentMoniker": "HOD\\DelAssignCourse.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelAssignCourse.cs",
+              "RelativeToolTip": "HOD\\DelAssignCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:45:06.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "DelRoom.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelRoom.cs",
-              "RelativeDocumentMoniker": "Admin\\DelRoom.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelRoom.cs [Design]",
-              "RelativeToolTip": "Admin\\DelRoom.cs [Design]",
+              "Title": "DelAssignCourse.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelAssignCourse.cs",
+              "RelativeDocumentMoniker": "HOD\\DelAssignCourse.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelAssignCourse.cs [Design]",
+              "RelativeToolTip": "HOD\\DelAssignCourse.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:08:36.687Z",
+              "WhenOpened": "2025-03-22T12:14:09.474Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "UpdateCourse.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateCourse.cs",
-              "RelativeDocumentMoniker": "Admin\\UpdateCourse.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateCourse.cs [Design]",
-              "RelativeToolTip": "Admin\\UpdateCourse.cs [Design]",
+              "Title": "DelAdminRole.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelAdminRole.cs",
+              "RelativeDocumentMoniker": "HOD\\DelAdminRole.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelAdminRole.cs [Design]",
+              "RelativeToolTip": "HOD\\DelAdminRole.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T12:36:13.735Z",
+              "WhenOpened": "2025-03-21T08:20:57.753Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "DelCourse.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelCourse.cs",
-              "RelativeDocumentMoniker": "Admin\\DelCourse.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelCourse.cs [Design]",
-              "RelativeToolTip": "Admin\\DelCourse.cs [Design]",
+              "Title": "DelAdminRole.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelAdminRole.cs",
+              "RelativeDocumentMoniker": "HOD\\DelAdminRole.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelAdminRole.cs",
+              "RelativeToolTip": "HOD\\DelAdminRole.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T12:27:31.557Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AddItem.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddItem.cs",
-              "RelativeDocumentMoniker": "Admin\\AddItem.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddItem.cs [Design]",
-              "RelativeToolTip": "Admin\\AddItem.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:48:08.963Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-21T08:24:28.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "AddCourse.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddCourse.cs",
-              "RelativeDocumentMoniker": "Admin\\AddCourse.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddCourse.cs [Design]",
-              "RelativeToolTip": "Admin\\AddCourse.cs [Design]",
+              "Title": "AssignCouseCrud.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AssignCouseCrud.cs",
+              "RelativeDocumentMoniker": "HOD\\AssignCouseCrud.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AssignCouseCrud.cs",
+              "RelativeToolTip": "HOD\\AssignCouseCrud.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T11:12:08.926Z",
+              "WhenOpened": "2025-03-22T12:14:28.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CourseAssign.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\CourseAssign.cs",
+              "RelativeDocumentMoniker": "HOD\\CourseAssign.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\CourseAssign.cs",
+              "RelativeToolTip": "HOD\\CourseAssign.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:56:57.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CourseAssign.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\CourseAssign.cs",
+              "RelativeDocumentMoniker": "HOD\\CourseAssign.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\CourseAssign.cs [Design]",
+              "RelativeToolTip": "HOD\\CourseAssign.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:42:31.307Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Inventory.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Inventory.cs",
-              "RelativeDocumentMoniker": "Admin\\Inventory.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Inventory.cs [Design]",
-              "RelativeToolTip": "Admin\\Inventory.cs [Design]",
+              "Title": "UpdateAssignCourse.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateAssignCourse.cs",
+              "RelativeDocumentMoniker": "HOD\\UpdateAssignCourse.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateAssignCourse.cs",
+              "RelativeToolTip": "HOD\\UpdateAssignCourse.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T22:04:35.392Z",
+              "WhenOpened": "2025-03-22T12:25:49.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssignCourse.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AssignCourse.cs",
+              "RelativeDocumentMoniker": "HOD\\AssignCourse.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AssignCourse.cs",
+              "RelativeToolTip": "HOD\\AssignCourse.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:09:17.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViewAssignedCourses.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignedCourses.cs",
+              "RelativeDocumentMoniker": "HOD\\ViewAssignedCourses.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignedCourses.cs",
+              "RelativeToolTip": "HOD\\ViewAssignedCourses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:32:50.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ViewAssignedCourses.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignedCourses.cs",
+              "RelativeDocumentMoniker": "HOD\\ViewAssignedCourses.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAssignedCourses.cs [Design]",
+              "RelativeToolTip": "HOD\\ViewAssignedCourses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:31:54.738Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
+              "Title": "UpdateAssignCourse.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateAssignCourse.cs",
+              "RelativeDocumentMoniker": "HOD\\UpdateAssignCourse.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateAssignCourse.cs [Design]",
+              "RelativeToolTip": "HOD\\UpdateAssignCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:20:51.985Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ViewAdminRole.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAdminRole.cs",
+              "RelativeDocumentMoniker": "HOD\\ViewAdminRole.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAdminRole.cs [Design]",
+              "RelativeToolTip": "HOD\\ViewAdminRole.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:44:04.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AssignCourse.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AssignCourse.cs",
+              "RelativeDocumentMoniker": "HOD\\AssignCourse.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AssignCourse.cs [Design]",
+              "RelativeToolTip": "HOD\\AssignCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:06:02.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddProjSup.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AddProjSup.cs",
+              "RelativeDocumentMoniker": "HOD\\AddProjSup.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AddProjSup.cs [Design]",
+              "RelativeToolTip": "HOD\\AddProjSup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:07:12.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddProjSup.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AddProjSup.cs",
+              "RelativeDocumentMoniker": "HOD\\AddProjSup.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AddProjSup.cs",
+              "RelativeToolTip": "HOD\\AddProjSup.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:14:18.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "WorkLoadAssign.Designer.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\WorkLoadAssign.Designer.cs",
+              "RelativeDocumentMoniker": "HOD\\WorkLoadAssign.Designer.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\WorkLoadAssign.Designer.cs",
+              "RelativeToolTip": "HOD\\WorkLoadAssign.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:29:01.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateProj.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateProj.cs",
+              "RelativeDocumentMoniker": "HOD\\UpdateProj.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateProj.cs",
+              "RelativeToolTip": "HOD\\UpdateProj.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:03:25.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DelProj.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelProj.cs",
+              "RelativeDocumentMoniker": "HOD\\DelProj.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelProj.cs",
+              "RelativeToolTip": "HOD\\DelProj.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:24:39.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateProj.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateProj.cs",
+              "RelativeDocumentMoniker": "HOD\\UpdateProj.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateProj.cs [Design]",
+              "RelativeToolTip": "HOD\\UpdateProj.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:02:38.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DelProj.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelProj.cs",
+              "RelativeDocumentMoniker": "HOD\\DelProj.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DelProj.cs [Design]",
+              "RelativeToolTip": "HOD\\DelProj.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:24:02.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProjectSup.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\ProjectSup.cs",
+              "RelativeDocumentMoniker": "Faculty\\ProjectSup.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\ProjectSup.cs [Design]",
+              "RelativeToolTip": "Faculty\\ProjectSup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:48:31.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminRoleCrud.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AdminRoleCrud.cs",
+              "RelativeDocumentMoniker": "HOD\\AdminRoleCrud.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AdminRoleCrud.cs",
+              "RelativeToolTip": "HOD\\AdminRoleCrud.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:23:17.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProjectSup.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\ProjectSup.cs",
+              "RelativeDocumentMoniker": "Faculty\\ProjectSup.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\ProjectSup.cs",
+              "RelativeToolTip": "Faculty\\ProjectSup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:23:39.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProjCrud.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ProjCrud.cs",
+              "RelativeDocumentMoniker": "HOD\\ProjCrud.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ProjCrud.cs",
+              "RelativeToolTip": "HOD\\ProjCrud.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:42:26.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddAdminRole.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AddAdminRole.cs",
+              "RelativeDocumentMoniker": "HOD\\AddAdminRole.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AddAdminRole.cs [Design]",
+              "RelativeToolTip": "HOD\\AddAdminRole.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:15:01.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddAdminRole.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AddAdminRole.cs",
+              "RelativeDocumentMoniker": "HOD\\AddAdminRole.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AddAdminRole.cs",
+              "RelativeToolTip": "HOD\\AddAdminRole.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:19:38.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateAdminRole.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateAdminRole.cs",
+              "RelativeDocumentMoniker": "HOD\\UpdateAdminRole.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateAdminRole.cs",
+              "RelativeToolTip": "HOD\\UpdateAdminRole.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwD4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:15:19.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateAdminRole.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateAdminRole.cs",
+              "RelativeDocumentMoniker": "HOD\\UpdateAdminRole.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\UpdateAdminRole.cs [Design]",
+              "RelativeToolTip": "HOD\\UpdateAdminRole.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:09:15.697Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminDuty.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AdminDuty.cs",
+              "RelativeDocumentMoniker": "HOD\\AdminDuty.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AdminDuty.cs [Design]",
+              "RelativeToolTip": "HOD\\AdminDuty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:59:36.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ViewAdminRole.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAdminRole.cs",
+              "RelativeDocumentMoniker": "HOD\\ViewAdminRole.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\ViewAdminRole.cs",
+              "RelativeToolTip": "HOD\\ViewAdminRole.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:46:23.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FacultyUI.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacultyUI.cs",
+              "RelativeDocumentMoniker": "Faculty\\FacultyUI.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacultyUI.cs [Design]",
+              "RelativeToolTip": "Faculty\\FacultyUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:14:55.749Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FacReqstat.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqstat.cs",
+              "RelativeDocumentMoniker": "Faculty\\FacReqstat.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqstat.cs",
+              "RelativeToolTip": "Faculty\\FacReqstat.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCgAAABCAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:46:55.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FacReqsub.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqsub.cs",
+              "RelativeDocumentMoniker": "Faculty\\FacReqsub.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqsub.cs [Design]",
+              "RelativeToolTip": "Faculty\\FacReqsub.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:35:52.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FacReqstat.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqstat.cs",
+              "RelativeDocumentMoniker": "Faculty\\FacReqstat.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqstat.cs [Design]",
+              "RelativeToolTip": "Faculty\\FacReqstat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:45:40.178Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AdminDuty.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AdminDuty.cs",
+              "RelativeDocumentMoniker": "HOD\\AdminDuty.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\AdminDuty.cs",
+              "RelativeToolTip": "HOD\\AdminDuty.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:02:06.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
               "Title": "ViewAll.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewAll.cs",
               "RelativeDocumentMoniker": "Admin\\ViewAll.cs",
@@ -607,7 +1228,728 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 51,
+              "Title": "AddReq.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\AddReq.cs",
+              "RelativeDocumentMoniker": "Faculty\\AddReq.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\AddReq.cs",
+              "RelativeToolTip": "Faculty\\AddReq.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:21:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AddReq.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\AddReq.cs",
+              "RelativeDocumentMoniker": "Faculty\\AddReq.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\AddReq.cs [Design]",
+              "RelativeToolTip": "Faculty\\AddReq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:06:03.577Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DelProf.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelProf.cs",
+              "RelativeDocumentMoniker": "Admin\\DelProf.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelProf.cs",
+              "RelativeToolTip": "Admin\\DelProf.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:48:59.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FacCrud.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\FacCrud.cs",
+              "RelativeDocumentMoniker": "Admin\\FacCrud.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\FacCrud.cs",
+              "RelativeToolTip": "Admin\\FacCrud.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:21:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DelProf.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelProf.cs",
+              "RelativeDocumentMoniker": "Admin\\DelProf.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelProf.cs [Design]",
+              "RelativeToolTip": "Admin\\DelProf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:52:12.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UpdateReq.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\UpdateReq.cs",
+              "RelativeDocumentMoniker": "Faculty\\UpdateReq.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\UpdateReq.cs",
+              "RelativeToolTip": "Faculty\\UpdateReq.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAIAwwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:49:41.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdateReq.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\UpdateReq.cs",
+              "RelativeDocumentMoniker": "Faculty\\UpdateReq.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\UpdateReq.cs [Design]",
+              "RelativeToolTip": "Faculty\\UpdateReq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:08:12.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FacReqsub.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqsub.cs",
+              "RelativeDocumentMoniker": "Faculty\\FacReqsub.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqsub.cs",
+              "RelativeToolTip": "Faculty\\FacReqsub.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:43:08.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:53:23.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "WorkloadView.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\WorkloadView.cs",
+              "RelativeDocumentMoniker": "Faculty\\WorkloadView.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\WorkloadView.cs [Design]",
+              "RelativeToolTip": "Faculty\\WorkloadView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:22:40.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ReqCrud.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\ReqCrud.cs",
+              "RelativeDocumentMoniker": "Faculty\\ReqCrud.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\ReqCrud.cs",
+              "RelativeToolTip": "Faculty\\ReqCrud.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wCMAAADaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:08:45.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DelReq.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\DelReq.cs",
+              "RelativeDocumentMoniker": "Faculty\\DelReq.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\DelReq.cs",
+              "RelativeToolTip": "Faculty\\DelReq.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:34:22.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DelReq.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\DelReq.cs",
+              "RelativeDocumentMoniker": "Faculty\\DelReq.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\DelReq.cs [Design]",
+              "RelativeToolTip": "Faculty\\DelReq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:07:39.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DelItem.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelItem.cs",
+              "RelativeDocumentMoniker": "Admin\\DelItem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelItem.cs [Design]",
+              "RelativeToolTip": "Admin\\DelItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:03:04.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AddCourse.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddCourse.cs",
+              "RelativeDocumentMoniker": "Admin\\AddCourse.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddCourse.cs [Design]",
+              "RelativeToolTip": "Admin\\AddCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:12:08.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AddProf.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProf.cs",
+              "RelativeDocumentMoniker": "Admin\\AddProf.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProf.cs [Design]",
+              "RelativeToolTip": "Admin\\AddProf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:51:51.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AddProj.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProj.cs",
+              "RelativeDocumentMoniker": "Admin\\AddProj.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProj.cs [Design]",
+              "RelativeToolTip": "Admin\\AddProj.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:07:15.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AddItem.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddItem.cs",
+              "RelativeDocumentMoniker": "Admin\\AddItem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddItem.cs [Design]",
+              "RelativeToolTip": "Admin\\AddItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:48:08.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FacultyUI.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacultyUI.cs",
+              "RelativeDocumentMoniker": "Faculty\\FacultyUI.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacultyUI.cs",
+              "RelativeToolTip": "Faculty\\FacultyUI.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAQwGsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:33:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AdminStaffUI.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.cs",
+              "RelativeDocumentMoniker": "Admin\\AdminStaffUI.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.cs [Design]",
+              "RelativeToolTip": "Admin\\AdminStaffUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:14:36.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AdminStaffUI.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.cs",
+              "RelativeDocumentMoniker": "Admin\\AdminStaffUI.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.cs",
+              "RelativeToolTip": "Admin\\AdminStaffUI.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:41:39.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FacProfile.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacProfile.cs",
+              "RelativeDocumentMoniker": "Faculty\\FacProfile.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacProfile.cs [Design]",
+              "RelativeToolTip": "Faculty\\FacProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:50:22.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "FacProfile.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacProfile.cs",
+              "RelativeDocumentMoniker": "Faculty\\FacProfile.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacProfile.cs",
+              "RelativeToolTip": "Faculty\\FacProfile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:52:16.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ViewProj.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewProj.cs",
+              "RelativeDocumentMoniker": "Admin\\ViewProj.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewProj.cs",
+              "RelativeToolTip": "Admin\\ViewProj.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:56:45.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "WorkloadView.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\WorkloadView.cs",
+              "RelativeDocumentMoniker": "Faculty\\WorkloadView.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\WorkloadView.cs",
+              "RelativeToolTip": "Faculty\\WorkloadView.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:24:50.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ViewProj.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewProj.cs",
+              "RelativeDocumentMoniker": "Admin\\ViewProj.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewProj.cs [Design]",
+              "RelativeToolTip": "Admin\\ViewProj.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:55:26.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AddProf.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProf.cs",
+              "RelativeDocumentMoniker": "Admin\\AddProf.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProf.cs",
+              "RelativeToolTip": "Admin\\AddProf.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:34:08.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SemCrud.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\SemCrud.cs",
+              "RelativeDocumentMoniker": "Admin\\SemCrud.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\SemCrud.cs",
+              "RelativeToolTip": "Admin\\SemCrud.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:03:41.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RepAnalysis.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\RepAnalysis.cs",
+              "RelativeDocumentMoniker": "HOD\\RepAnalysis.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\RepAnalysis.cs",
+              "RelativeToolTip": "HOD\\RepAnalysis.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T22:07:38.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ProjectManage.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ProjectManage.cs",
+              "RelativeDocumentMoniker": "Admin\\ProjectManage.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ProjectManage.cs [Design]",
+              "RelativeToolTip": "Admin\\ProjectManage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:43:55.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ProjectManage.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ProjectManage.cs",
+              "RelativeDocumentMoniker": "Admin\\ProjectManage.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ProjectManage.cs",
+              "RelativeToolTip": "Admin\\ProjectManage.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:04:29.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AddProj.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProj.cs",
+              "RelativeDocumentMoniker": "Admin\\AddProj.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProj.cs",
+              "RelativeToolTip": "Admin\\AddProj.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:13:52.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Sem.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Sem.cs",
+              "RelativeDocumentMoniker": "Admin\\Sem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Sem.cs",
+              "RelativeToolTip": "Admin\\Sem.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswD0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:00:45.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Sem.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Sem.cs",
+              "RelativeDocumentMoniker": "Admin\\Sem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Sem.cs [Design]",
+              "RelativeToolTip": "Admin\\Sem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:35:12.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ViewSem.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewSem.cs",
+              "RelativeDocumentMoniker": "Admin\\ViewSem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewSem.cs",
+              "RelativeToolTip": "Admin\\ViewSem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:02:27.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ViewSem.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewSem.cs",
+              "RelativeDocumentMoniker": "Admin\\ViewSem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewSem.cs [Design]",
+              "RelativeToolTip": "Admin\\ViewSem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:01:25.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "AddSem.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddSem.cs",
+              "RelativeDocumentMoniker": "Admin\\AddSem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddSem.cs",
+              "RelativeToolTip": "Admin\\AddSem.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:09:51.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "AddSem.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddSem.cs",
+              "RelativeDocumentMoniker": "Admin\\AddSem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddSem.cs [Design]",
+              "RelativeToolTip": "Admin\\AddSem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:08:29.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "UpdateRoom.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateRoom.cs",
+              "RelativeDocumentMoniker": "Admin\\UpdateRoom.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateRoom.cs [Design]",
+              "RelativeToolTip": "Admin\\UpdateRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:13:15.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "DelRoom.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelRoom.cs",
+              "RelativeDocumentMoniker": "Admin\\DelRoom.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelRoom.cs [Design]",
+              "RelativeToolTip": "Admin\\DelRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:08:36.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "UpdateSem.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateSem.cs",
+              "RelativeDocumentMoniker": "Admin\\UpdateSem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateSem.cs",
+              "RelativeToolTip": "Admin\\UpdateSem.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:31:06.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "UpdateSem.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateSem.cs",
+              "RelativeDocumentMoniker": "Admin\\UpdateSem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateSem.cs [Design]",
+              "RelativeToolTip": "Admin\\UpdateSem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:29:43.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "DelSem.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelSem.cs",
+              "RelativeDocumentMoniker": "Admin\\DelSem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelSem.cs",
+              "RelativeToolTip": "Admin\\DelSem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:25:30.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DelSem.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelSem.cs",
+              "RelativeDocumentMoniker": "Admin\\DelSem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelSem.cs [Design]",
+              "RelativeToolTip": "Admin\\DelSem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:23:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "UpdateItem.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateItem.cs",
+              "RelativeDocumentMoniker": "Admin\\UpdateItem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateItem.cs [Design]",
+              "RelativeToolTip": "Admin\\UpdateItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:10:00.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "UpdateItem.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateItem.cs",
+              "RelativeDocumentMoniker": "Admin\\UpdateItem.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateItem.cs",
+              "RelativeToolTip": "Admin\\UpdateItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:11:59.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Facreqman.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\Facreqman.cs",
+              "RelativeDocumentMoniker": "HOD\\Facreqman.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\Facreqman.cs [Design]",
+              "RelativeToolTip": "HOD\\Facreqman.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:12:40.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "AddRoom.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddRoom.cs",
+              "RelativeDocumentMoniker": "Admin\\AddRoom.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddRoom.cs [Design]",
+              "RelativeToolTip": "Admin\\AddRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:54:14.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ViewRoom.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewRoom.cs",
+              "RelativeDocumentMoniker": "Admin\\ViewRoom.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewRoom.cs [Design]",
+              "RelativeToolTip": "Admin\\ViewRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:51:27.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Room.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Room.cs",
+              "RelativeDocumentMoniker": "Admin\\Room.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Room.cs [Design]",
+              "RelativeToolTip": "Admin\\Room.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:49:34.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ViewRoom.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewRoom.cs",
+              "RelativeDocumentMoniker": "Admin\\ViewRoom.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewRoom.cs",
+              "RelativeToolTip": "Admin\\ViewRoom.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:52:29.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "UpdateRoom.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateRoom.cs",
+              "RelativeDocumentMoniker": "Admin\\UpdateRoom.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateRoom.cs",
+              "RelativeToolTip": "Admin\\UpdateRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:16:55.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ViewCourse.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewCourse.cs",
+              "RelativeDocumentMoniker": "Admin\\ViewCourse.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewCourse.cs [Design]",
+              "RelativeToolTip": "Admin\\ViewCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:13:01.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "RoomCrud.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\RoomCrud.cs",
+              "RelativeDocumentMoniker": "Admin\\RoomCrud.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\RoomCrud.cs",
+              "RelativeToolTip": "Admin\\RoomCrud.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:04:12.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Room.cs",
+              "RelativeDocumentMoniker": "Admin\\Room.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Room.cs",
+              "RelativeToolTip": "Admin\\Room.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:49:59.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "AddRoom.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddRoom.cs",
+              "RelativeDocumentMoniker": "Admin\\AddRoom.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddRoom.cs",
+              "RelativeToolTip": "Admin\\AddRoom.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:59:55.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "AdminStaffUI.resx",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.resx",
+              "RelativeDocumentMoniker": "Admin\\AdminStaffUI.resx",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.resx",
+              "RelativeToolTip": "Admin\\AdminStaffUI.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-20T16:25:31.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "AdminStaffUI.Designer.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.Designer.cs",
+              "RelativeDocumentMoniker": "Admin\\AdminStaffUI.Designer.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AdminStaffUI.Designer.cs",
+              "RelativeToolTip": "Admin\\AdminStaffUI.Designer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:25:35.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "DelRoom.cs",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelRoom.cs",
+              "RelativeDocumentMoniker": "Admin\\DelRoom.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelRoom.cs",
+              "RelativeToolTip": "Admin\\DelRoom.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:09:21.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "UpdateCourse.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateCourse.cs",
+              "RelativeDocumentMoniker": "Admin\\UpdateCourse.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateCourse.cs [Design]",
+              "RelativeToolTip": "Admin\\UpdateCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:36:13.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "DelCourse.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelCourse.cs",
+              "RelativeDocumentMoniker": "Admin\\DelCourse.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelCourse.cs [Design]",
+              "RelativeToolTip": "Admin\\DelCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:27:31.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "Inventory.cs [Design]",
+              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Inventory.cs",
+              "RelativeDocumentMoniker": "Admin\\Inventory.cs",
+              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Inventory.cs [Design]",
+              "RelativeToolTip": "Admin\\Inventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T22:04:35.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
               "Title": "Inventory.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\Inventory.cs",
               "RelativeDocumentMoniker": "Admin\\Inventory.cs",
@@ -615,12 +1957,11 @@
               "RelativeToolTip": "Admin\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T22:06:04.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T22:06:04.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 116,
               "Title": "InventoryCrud.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\InventoryCrud.cs",
               "RelativeDocumentMoniker": "Admin\\InventoryCrud.cs",
@@ -628,24 +1969,22 @@
               "RelativeToolTip": "Admin\\InventoryCrud.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwB8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:55:24.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:55:24.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 114,
               "Title": "ReqProc.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ReqProc.cs",
               "RelativeDocumentMoniker": "Admin\\ReqProc.cs",
               "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ReqProc.cs [Design]",
               "RelativeToolTip": "Admin\\ReqProc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T21:58:52.805Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-07T21:58:52.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 117,
               "Title": "ViewItems.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewItems.cs",
               "RelativeDocumentMoniker": "Admin\\ViewItems.cs",
@@ -653,24 +1992,22 @@
               "RelativeToolTip": "Admin\\ViewItems.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:42:51.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:42:51.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 118,
               "Title": "ViewItems.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewItems.cs",
               "RelativeDocumentMoniker": "Admin\\ViewItems.cs",
               "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewItems.cs [Design]",
               "RelativeToolTip": "Admin\\ViewItems.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:42:11.584Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T14:42:11.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 119,
               "Title": "AddItem.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddItem.cs",
               "RelativeDocumentMoniker": "Admin\\AddItem.cs",
@@ -678,24 +2015,11 @@
               "RelativeToolTip": "Admin\\AddItem.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:54:46.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:54:46.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "DelItem.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelItem.cs",
-              "RelativeDocumentMoniker": "Admin\\DelItem.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelItem.cs [Design]",
-              "RelativeToolTip": "Admin\\DelItem.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:03:04.831Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 120,
               "Title": "DelItem.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelItem.cs",
               "RelativeDocumentMoniker": "Admin\\DelItem.cs",
@@ -703,49 +2027,11 @@
               "RelativeToolTip": "Admin\\DelItem.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:04:35.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T15:04:35.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UpdateItem.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateItem.cs",
-              "RelativeDocumentMoniker": "Admin\\UpdateItem.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateItem.cs [Design]",
-              "RelativeToolTip": "Admin\\UpdateItem.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:10:00.781Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UpdateItem.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateItem.cs",
-              "RelativeDocumentMoniker": "Admin\\UpdateItem.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateItem.cs",
-              "RelativeToolTip": "Admin\\UpdateItem.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:11:59.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ViewCourse.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewCourse.cs",
-              "RelativeDocumentMoniker": "Admin\\ViewCourse.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewCourse.cs [Design]",
-              "RelativeToolTip": "Admin\\ViewCourse.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:13:01.416Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 121,
               "Title": "ViewCourse.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewCourse.cs",
               "RelativeDocumentMoniker": "Admin\\ViewCourse.cs",
@@ -753,12 +2039,11 @@
               "RelativeToolTip": "Admin\\ViewCourse.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T11:00:20.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T11:00:20.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 122,
               "Title": "CourseAll.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\CourseAll.cs",
               "RelativeDocumentMoniker": "Admin\\CourseAll.cs",
@@ -770,7 +2055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 123,
               "Title": "UpdateCourse.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateCourse.cs",
               "RelativeDocumentMoniker": "Admin\\UpdateCourse.cs",
@@ -778,12 +2063,11 @@
               "RelativeToolTip": "Admin\\UpdateCourse.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAwCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T12:45:41.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T12:45:41.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 125,
               "Title": "DelCourse.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelCourse.cs",
               "RelativeDocumentMoniker": "Admin\\DelCourse.cs",
@@ -791,12 +2075,11 @@
               "RelativeToolTip": "Admin\\DelCourse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T12:34:28.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T12:34:28.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 124,
               "Title": "CourseCrud.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\CourseCrud.cs",
               "RelativeDocumentMoniker": "Admin\\CourseCrud.cs",
@@ -804,25 +2087,11 @@
               "RelativeToolTip": "Admin\\CourseCrud.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T11:07:34.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T11:07:34.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "AddCourse.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddCourse.cs",
-              "RelativeDocumentMoniker": "Admin\\AddCourse.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddCourse.cs",
-              "RelativeToolTip": "Admin\\AddCourse.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T11:14:24.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 126,
               "Title": "ViewAll.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ViewAll.cs",
               "RelativeDocumentMoniker": "Admin\\ViewAll.cs",
@@ -835,57 +2104,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CourseAll.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\CourseAll.cs",
-              "RelativeDocumentMoniker": "Admin\\CourseAll.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\CourseAll.cs",
-              "RelativeToolTip": "Admin\\CourseAll.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwB4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T21:29:30.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 128,
               "Title": "Rollform.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Rollform.cs",
               "RelativeDocumentMoniker": "Rollform.cs",
               "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Rollform.cs [Design]",
               "RelativeToolTip": "Rollform.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:11:17.804Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-18T15:11:17.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "AddProf.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProf.cs",
-              "RelativeDocumentMoniker": "Admin\\AddProf.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProf.cs [Design]",
-              "RelativeToolTip": "Admin\\AddProf.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:51:51.995Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "AddProf.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProf.cs",
-              "RelativeDocumentMoniker": "Admin\\AddProf.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\AddProf.cs",
-              "RelativeToolTip": "Admin\\AddProf.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAADwv0gAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T14:34:08.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 127,
               "Title": "Rollform.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Rollform.cs",
               "RelativeDocumentMoniker": "Rollform.cs",
@@ -893,60 +2123,33 @@
               "RelativeToolTip": "Rollform.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAuwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T08:57:34.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T08:57:34.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 129,
               "Title": "UpdateProf.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateProf.cs",
               "RelativeDocumentMoniker": "Admin\\UpdateProf.cs",
               "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\UpdateProf.cs [Design]",
               "RelativeToolTip": "Admin\\UpdateProf.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T01:45:37.202Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T01:45:37.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 130,
               "Title": "FacProfAdd.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\FacProfAdd.cs",
               "RelativeDocumentMoniker": "Admin\\FacProfAdd.cs",
               "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\FacProfAdd.cs [Design]",
               "RelativeToolTip": "Admin\\FacProfAdd.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:51:06.573Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T10:51:06.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "DelProf.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelProf.cs",
-              "RelativeDocumentMoniker": "Admin\\DelProf.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\DelProf.cs [Design]",
-              "RelativeToolTip": "Admin\\DelProf.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:52:12.614Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "FacultyUI.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacultyUI.cs",
-              "RelativeDocumentMoniker": "Faculty\\FacultyUI.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacultyUI.cs [Design]",
-              "RelativeToolTip": "Faculty\\FacultyUI.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T11:14:55.749Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 133,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -957,20 +2160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "FacCrud.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\FacCrud.cs",
-              "RelativeDocumentMoniker": "Admin\\FacCrud.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\FacCrud.cs",
-              "RelativeToolTip": "Admin\\FacCrud.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAiwFgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T01:21:13.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 134,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -981,7 +2171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 131,
               "Title": "FacProfAdd.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\FacProfAdd.cs",
               "RelativeDocumentMoniker": "Admin\\FacProfAdd.cs",
@@ -989,12 +2179,11 @@
               "RelativeToolTip": "Admin\\FacProfAdd.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAkwEkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T21:21:49.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T21:21:49.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 132,
               "Title": "Form3.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -1006,7 +2195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 136,
               "Title": "ForgotPass.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\ForgotPass.cs",
               "RelativeDocumentMoniker": "ForgotPass.cs",
@@ -1018,7 +2207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 135,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -1029,7 +2218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 137,
               "Title": "ForgotPass.cs [Design]",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\ForgotPass.cs",
               "RelativeDocumentMoniker": "ForgotPass.cs",
@@ -1040,7 +2229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 138,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -1052,108 +2241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "DepResAll.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DepResAll.cs",
-              "RelativeDocumentMoniker": "HOD\\DepResAll.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DepResAll.cs [Design]",
-              "RelativeToolTip": "HOD\\DepResAll.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:43:34.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Facreqman.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\Facreqman.cs",
-              "RelativeDocumentMoniker": "HOD\\Facreqman.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\Facreqman.cs [Design]",
-              "RelativeToolTip": "HOD\\Facreqman.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:12:40.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "HODUI.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\HODUI.cs",
-              "RelativeDocumentMoniker": "HOD\\HODUI.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\HODUI.cs [Design]",
-              "RelativeToolTip": "HOD\\HODUI.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T21:02:34.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "FacProfile.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacProfile.cs",
-              "RelativeDocumentMoniker": "Faculty\\FacProfile.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacProfile.cs [Design]",
-              "RelativeToolTip": "Faculty\\FacProfile.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:50:22.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "FacReqsub.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqsub.cs",
-              "RelativeDocumentMoniker": "Faculty\\FacReqsub.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqsub.cs [Design]",
-              "RelativeToolTip": "Faculty\\FacReqsub.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:35:52.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "FacReqstat.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqstat.cs",
-              "RelativeDocumentMoniker": "Faculty\\FacReqstat.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqstat.cs [Design]",
-              "RelativeToolTip": "Faculty\\FacReqstat.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:45:40.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "WorkloadView.cs [Design]",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\WorkloadView.cs",
-              "RelativeDocumentMoniker": "Faculty\\WorkloadView.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\WorkloadView.cs [Design]",
-              "RelativeToolTip": "Faculty\\WorkloadView.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:22:40.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "WorkLoadAssign.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\WorkLoadAssign.cs",
-              "RelativeDocumentMoniker": "HOD\\WorkLoadAssign.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\WorkLoadAssign.cs",
-              "RelativeToolTip": "HOD\\WorkLoadAssign.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:40:50.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "RepAnalysis.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\RepAnalysis.cs",
-              "RelativeDocumentMoniker": "HOD\\RepAnalysis.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\RepAnalysis.cs",
-              "RelativeToolTip": "HOD\\RepAnalysis.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAArwBoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T22:07:38.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 139,
               "Title": "Facreqman.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\Facreqman.cs",
               "RelativeDocumentMoniker": "HOD\\Facreqman.cs",
@@ -1165,19 +2253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "DepResAll.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DepResAll.cs",
-              "RelativeDocumentMoniker": "HOD\\DepResAll.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\DepResAll.cs",
-              "RelativeToolTip": "HOD\\DepResAll.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:50:05.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 140,
               "Title": "ReqProc.cs",
               "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Admin\\ReqProc.cs",
               "RelativeDocumentMoniker": "Admin\\ReqProc.cs",
@@ -1185,81 +2261,7 @@
               "RelativeToolTip": "Admin\\ReqProc.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAArwBkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T22:01:37.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "FacProfile.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacProfile.cs",
-              "RelativeDocumentMoniker": "Faculty\\FacProfile.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacProfile.cs",
-              "RelativeToolTip": "Faculty\\FacProfile.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAewBAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:52:16.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "HODUI.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\HODUI.cs",
-              "RelativeDocumentMoniker": "HOD\\HODUI.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\HOD\\HODUI.cs",
-              "RelativeToolTip": "HOD\\HODUI.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAowDwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T21:03:11.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "FacultyUI.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacultyUI.cs",
-              "RelativeDocumentMoniker": "Faculty\\FacultyUI.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacultyUI.cs",
-              "RelativeToolTip": "Faculty\\FacultyUI.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAADwv2oAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T16:33:00.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "WorkloadView.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\WorkloadView.cs",
-              "RelativeDocumentMoniker": "Faculty\\WorkloadView.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\WorkloadView.cs",
-              "RelativeToolTip": "Faculty\\WorkloadView.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:24:50.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "FacReqstat.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqstat.cs",
-              "RelativeDocumentMoniker": "Faculty\\FacReqstat.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqstat.cs",
-              "RelativeToolTip": "Faculty\\FacReqstat.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAArwBoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:46:55.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "FacReqsub.cs",
-              "DocumentMoniker": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqsub.cs",
-              "RelativeDocumentMoniker": "Faculty\\FacReqsub.cs",
-              "ToolTip": "D:\\2nd sem\\DataBase Lab\\week7\\DB Project\\Project\\Faculty\\FacReqsub.cs",
-              "RelativeToolTip": "Faculty\\FacReqsub.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAArwBoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:43:08.16Z"
+              "WhenOpened": "2025-03-07T22:01:37.307Z"
             }
           ]
         }

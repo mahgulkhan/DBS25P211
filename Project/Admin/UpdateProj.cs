@@ -28,8 +28,8 @@ namespace Project.Admin
 
         public void update()
         {
-            int project_id = int.Parse(textBox3.Text);
-            string project_name = textBox2.Text;
+            int project_id = int.Parse(textBox2.Text);
+            string project_name = textBox3.Text;
             string description = textBox1.Text;
 
             ProjCrud projectCrud = new ProjCrud(project_id, project_name, description);
@@ -44,6 +44,21 @@ namespace Project.Admin
 
             update();
             MessageBox.Show("The project has been updated");
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

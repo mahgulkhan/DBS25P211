@@ -43,5 +43,23 @@ namespace Project.Admin
             this.Hide();
             addSem.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            UpdateSem updateSem = new UpdateSem();
+            updateSem.StartPosition = FormStartPosition.Manual;
+            updateSem.Location = this.Location;
+            this.Hide();
+            updateSem.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DelSem delSem = new DelSem();
+            delSem.StartPosition = FormStartPosition.Manual;
+            delSem.Location = this.Location;
+            this.Hide();
+            delSem.Show();
+        }
     }
 }

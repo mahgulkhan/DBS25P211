@@ -21,18 +21,18 @@ namespace Project.Admin
         
         public void AddSemester()
         {
-            string query = $"INSERT INTO Semesters (sem_term, sem_year) VALUES ('{sem_term}', '{sem_year}')";
+            string query = $"INSERT INTO Semesters (term, year) VALUES ('{sem_term}', '{sem_year}')";
             var conn = DatabaseHelper.Instance.Update(query);
         }
 
         public void UpdateSemester()
         {
-            string query = $"UPDATE Semesters SET sem_term = '{sem_term}', sem_year = '{sem_year}' WHERE sem_id = {sem_id}";
+            string query = $"UPDATE Semesters SET term = '{sem_term}', year = '{sem_year}' WHERE semester_id = {sem_id}";
             var conn = DatabaseHelper.Instance.Update(query);
         }
         public void DeleteSemester()
         {
-            string query = $"DELETE FROM Semesters WHERE sem_id = {sem_id}";
+            string query = $"DELETE FROM Semesters WHERE semester_id = {sem_id}";
             var conn = DatabaseHelper.Instance.Update(query);
         }
 

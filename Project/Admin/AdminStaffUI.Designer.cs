@@ -33,6 +33,7 @@ namespace Project
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -41,7 +42,7 @@ namespace Project
             this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.button7 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -49,6 +50,7 @@ namespace Project
             // 
             this.panel1.BackgroundImage = global::Project.Properties.Resources._3dcf446280afa4566b01913b7e6b20b9;
             this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel1.Controls.Add(this.button8);
             this.panel1.Controls.Add(this.button7);
             this.panel1.Controls.Add(this.button6);
             this.panel1.Controls.Add(this.button3);
@@ -66,6 +68,19 @@ namespace Project
             this.panel1.Size = new System.Drawing.Size(1303, 513);
             this.panel1.TabIndex = 3;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint_1);
+            // 
+            // button7
+            // 
+            this.button7.BackColor = System.Drawing.Color.DarkCyan;
+            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button7.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button7.Location = new System.Drawing.Point(492, 330);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(315, 40);
+            this.button7.TabIndex = 5;
+            this.button7.Text = "Project Management";
+            this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button6
             // 
@@ -176,17 +191,18 @@ namespace Project
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
-            // button7
+            // button8
             // 
-            this.button7.BackColor = System.Drawing.Color.DarkCyan;
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button7.Location = new System.Drawing.Point(492, 330);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(315, 40);
-            this.button7.TabIndex = 5;
-            this.button7.Text = "Project Management";
-            this.button7.UseVisualStyleBackColor = false;
+            this.button8.BackColor = System.Drawing.Color.Sienna;
+            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button8.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button8.Location = new System.Drawing.Point(1029, 330);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(128, 52);
+            this.button8.TabIndex = 6;
+            this.button8.Text = "Exit";
+            this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // AdminStaffUI
             // 
@@ -239,5 +255,6 @@ namespace Project
         private Button button6;
         private Button button3;
         private Button button7;
+        private Button button8;
     }
 }

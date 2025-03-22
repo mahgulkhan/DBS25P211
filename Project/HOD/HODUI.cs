@@ -22,16 +22,6 @@ namespace Project
 
         }
 
-        private void button4_Click(object sender, EventArgs e)
-        {
-            Facreqman facreqform = new Facreqman();
-            facreqform.StartPosition = FormStartPosition.Manual;
-            facreqform.Location = this.Location;
-
-            this.Hide();
-            facreqform.Show();
-        }
-
         private void button5_Click(object sender, EventArgs e)
         {
             WorkLoadAssign workform = new WorkLoadAssign();
@@ -60,6 +50,21 @@ namespace Project
 
             this.Hide();
             repform.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
+
+        private void HODUI_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

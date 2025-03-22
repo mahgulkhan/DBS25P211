@@ -15,6 +15,7 @@ namespace Project.Admin
         public ViewSem()
         {
             InitializeComponent();
+            Viewsems();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -33,6 +34,11 @@ namespace Project.Admin
             DataTable data = new DataTable();
             data.Load(conn);
             dataGridView1.DataSource = data;
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

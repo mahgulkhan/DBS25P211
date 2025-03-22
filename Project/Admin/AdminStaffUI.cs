@@ -79,5 +79,19 @@ namespace Project
             this.Hide();
             sem.Show();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            ProjectManage projectManage = new ProjectManage();
+            projectManage.StartPosition = FormStartPosition.Manual;
+            projectManage.Location = this.Location;
+            this.Hide();
+            projectManage.Show();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
     }
 }
