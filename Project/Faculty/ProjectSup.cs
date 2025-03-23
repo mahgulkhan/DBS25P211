@@ -45,5 +45,10 @@ namespace Project.Faculty
 
             ViewWork(faculty_id);
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

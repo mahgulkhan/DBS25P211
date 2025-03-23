@@ -72,6 +72,7 @@
             this.button4.TabIndex = 3;
             this.button4.Text = "View Assigned Courses";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button2
             // 

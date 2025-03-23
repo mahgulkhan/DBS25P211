@@ -15,6 +15,7 @@ namespace Project.HOD
         public RequestApproval()
         {
             InitializeComponent();
+            ShowReq();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -29,8 +30,8 @@ namespace Project.HOD
         
         public void ShowReq()
         {
-            string query = $"SELECT faculty_admin_roles.admin_role_id, faculty_admin_roles.faculty_id, faculty.name, faculty_admin_roles.role_name, faculty_admin_roles.semester_id FROM Faculty_admin_roles JOIN faculty ON faculty_admin_roles.faculty_id = faculty.faculty_id";
-            var conn = DatabaseHelper.Instance.getData(query);
+            string query = $"SELECT faculty.faculty_id, faculty.name, faculty_requests.request_id, faculty_requests.item_id, faculty_requests.quantity, faculty_requests.status_id , faculty_requests.request_date FROM faculty_requests JOIN faculty ON faculty.faculty_id = faculty_requests.faculty_id WHERE status_id = 8";
+            var conn= DatabaseHelper.Instance.getData(query);
             DataTable dt = new DataTable();
             dt.Load(conn);
             dataGridView1.DataSource = dt;
@@ -48,7 +49,7 @@ namespace Project.HOD
         private void button1_Click(object sender, EventArgs e)
         {
             int request_id = int.Parse(textBox1.Text);
-            string query = $"UPDATE faculty_admin_roles SET status_id = 9 WHERE request_id = {request_id}";
+            string query = $"UPDATE faculty_requests SET status_id = 9 WHERE request_id = {request_id}";
             DatabaseHelper.Instance.Update(query);
             MessageBox.Show("Request Approved");
         }
@@ -56,7 +57,7 @@ namespace Project.HOD
         private void button3_Click(object sender, EventArgs e)
         {
             int request_id = int.Parse(textBox1.Text);
-            string query = $"UPDATE faculty_admin_roles SET status_id = 10 WHERE request_id = {request_id}";
+            string query = $"UPDATE faculty_requests SET status_id = 10 WHERE request_id = {request_id}";
             DatabaseHelper.Instance.Update(query);
             MessageBox.Show("Request Rejected");
         }

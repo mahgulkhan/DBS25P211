@@ -52,5 +52,14 @@ namespace Project.HOD
             this.Hide();
             delAssignCourse.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ViewAssignedCourses viewAssignedCourses = new ViewAssignedCourses();
+            viewAssignedCourses.StartPosition = FormStartPosition.Manual;
+            viewAssignedCourses.Location = this.Location;
+            this.Hide();
+            viewAssignedCourses.Show();
+        }
     }
 }

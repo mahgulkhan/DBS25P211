@@ -57,7 +57,7 @@
             this.panel1.MaximumSize = new System.Drawing.Size(1920, 1080);
             this.panel1.MinimumSize = new System.Drawing.Size(950, 500);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1237, 500);
+            this.panel1.Size = new System.Drawing.Size(1237, 507);
             this.panel1.TabIndex = 13;
             // 
             // button1
@@ -75,7 +75,7 @@
             // 
             this.textBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.textBox3.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.textBox3.Location = new System.Drawing.Point(459, 306);
+            this.textBox3.Location = new System.Drawing.Point(459, 309);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(288, 22);
             this.textBox3.TabIndex = 24;
@@ -87,7 +87,7 @@
             this.label12.BackColor = System.Drawing.Color.Teal;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label12.Location = new System.Drawing.Point(455, 263);
+            this.label12.Location = new System.Drawing.Point(455, 266);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(275, 28);
             this.label12.TabIndex = 31;
@@ -99,7 +99,7 @@
             this.label8.BackColor = System.Drawing.Color.Teal;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label8.Location = new System.Drawing.Point(405, 206);
+            this.label8.Location = new System.Drawing.Point(405, 209);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(409, 215);
             this.label8.TabIndex = 23;
@@ -161,7 +161,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1237, 453);
+            this.ClientSize = new System.Drawing.Size(1237, 507);
             this.Controls.Add(this.panel1);
             this.MaximumSize = new System.Drawing.Size(1920, 1080);
             this.MinimumSize = new System.Drawing.Size(800, 500);

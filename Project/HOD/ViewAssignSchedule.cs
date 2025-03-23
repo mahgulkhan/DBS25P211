@@ -29,7 +29,7 @@ namespace Project.HOD
 
         public void ShowCourses()
         {
-            string query = "SELECT faculty.faculty_id,projects.project_id, projects.title, semesters.semester_id, faculty_projects.supervision_hours FROM faculty_projects JOIN faculty ON faculty_projects.faculty_id = faculty.faculty_id ";
+            string query = $"SELECT faculty_course_schedule.schedule_id, faculty.faculty_id,faculty.name AS faculty_name,courses.course_name,faculty_course_schedule.room_id, rooms.room_name, faculty_course_schedule.day_of_week, faculty_course_schedule.start_time, faculty_course_schedule.end_time FROM faculty_course_schedule JOIN faculty_courses ON faculty_course_schedule.faculty_course_id = faculty_courses.faculty_course_id JOIN faculty ON faculty_courses.faculty_id = faculty.faculty_id JOIN courses ON faculty_courses.course_id = courses.course_id JOIN rooms ON faculty_course_schedule.room_id = rooms.room_id";
             var conn = DatabaseHelper.Instance.getData(query);
             DataTable data = new DataTable();
             data.Load(conn);

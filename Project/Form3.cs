@@ -77,8 +77,8 @@ namespace Project
 
         private void button1_Click(object sender, EventArgs e)
         {
-            username = textBox8.Text.Trim();
-            password = textBox3.Text.Trim();
+            username = textBox8.Text;
+            password = textBox3.Text;
 
             if(string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
             {

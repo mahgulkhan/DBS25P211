@@ -27,13 +27,13 @@ namespace Project.HOD
 
         public void AddSchedule()
         {
-            string query = $"INSERT INTO schedule (faculty_course_id, room_id, day_of_week, start_time, end_time) VALUES ({faculty_course_id}, {room_id}, '{day_of_week}', '{start_time}', '{end_time}')";
+            string query = $"INSERT INTO faculty_course_schedule (faculty_course_id, room_id, day_of_week, start_time, end_time) VALUES ({faculty_course_id}, {room_id}, '{day_of_week}', '{start_time}', '{end_time}')";
             DatabaseHelper.Instance.Update(query);
         }
 
         public void UpdateSchedule()
         {
-            string query = $"UPDATE schedule SET faculty_course_id = {faculty_course_id}, room_id = {room_id}, day_of_week = '{day_of_week}', start_time = '{start_time}', end_time = '{end_time}' WHERE schedule_id = {schedule_id}";
+            string query = $"UPDATE faculty_course_schedule SET faculty_course_id = {faculty_course_id}, room_id = {room_id}, day_of_week = '{day_of_week}', start_time = '{start_time}', end_time = '{end_time}' WHERE schedule_id = {schedule_id}";
             DatabaseHelper.Instance.Update(query);
         }
 

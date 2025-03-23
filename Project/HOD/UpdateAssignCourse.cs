@@ -65,7 +65,7 @@ namespace Project.HOD
             var conn = DatabaseHelper.Instance.getData(query);
             while (conn.Read())
             {
-                comboBox3.Items.Add(conn["course_id"].ToString() + "_" + conn["course_name"].ToString());
+                comboBox3.Items.Add(conn["course_id"].ToString() + "-" + conn["course_name"].ToString());
             }
         }
         private void button1_Click(object sender, EventArgs e)

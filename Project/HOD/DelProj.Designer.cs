@@ -85,7 +85,7 @@
             this.label5.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label5.Location = new System.Drawing.Point(489, 270);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(142, 27);
+            this.label5.Size = new System.Drawing.Size(183, 27);
             this.label5.TabIndex = 5;
             this.label5.Text = "Faculty Project ID";
             this.label5.Click += new System.EventHandler(this.label5_Click);

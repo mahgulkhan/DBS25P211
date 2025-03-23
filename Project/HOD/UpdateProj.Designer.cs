@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.comboBox3 = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
@@ -37,14 +38,13 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -76,6 +76,13 @@
             this.panel1.Size = new System.Drawing.Size(1131, 553);
             this.panel1.TabIndex = 10;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(442, 235);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(195, 22);
+            this.textBox2.TabIndex = 15;
             // 
             // textBox1
             // 
@@ -122,6 +129,7 @@
             this.comboBox1.Size = new System.Drawing.Size(194, 24);
             this.comboBox1.TabIndex = 7;
             this.comboBox1.Text = "Select Semester ID";
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label8
             // 
@@ -155,6 +163,17 @@
             this.label5.Size = new System.Drawing.Size(142, 27);
             this.label5.TabIndex = 5;
             this.label5.Text = "Project ID";
+            // 
+            // label9
+            // 
+            this.label9.BackColor = System.Drawing.Color.Teal;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label9.Location = new System.Drawing.Point(440, 208);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(198, 24);
+            this.label9.TabIndex = 4;
+            this.label9.Text = "Faculty Project ID";
             // 
             // label6
             // 
@@ -228,24 +247,6 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Workload Management";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // label9
-            // 
-            this.label9.BackColor = System.Drawing.Color.Teal;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label9.Location = new System.Drawing.Point(440, 208);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(198, 24);
-            this.label9.TabIndex = 4;
-            this.label9.Text = "Faculty Project ID";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(442, 235);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(195, 22);
-            this.textBox2.TabIndex = 15;
             // 
             // UpdateProj
             // 

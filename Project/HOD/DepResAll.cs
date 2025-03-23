@@ -39,7 +39,11 @@ namespace Project
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            RequestApproval requestApproval = new RequestApproval();
+            requestApproval.StartPosition = FormStartPosition.Manual;   
+            requestApproval.Location = this.Location;
+            this.Hide();
+            requestApproval.Show();
         }
 
         private void label1_Click(object sender, EventArgs e)

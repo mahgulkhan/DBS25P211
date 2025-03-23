@@ -62,11 +62,11 @@ namespace Project
 
         private void button3_Click(object sender, EventArgs e)
         {
-            FacReqstat facReqstat = new FacReqstat();
-            facReqstat.StartPosition = FormStartPosition.Manual;
-            facReqstat.Location = this.Location;
+            ReqStatus reqStatus = new ReqStatus();
+            reqStatus.StartPosition = FormStartPosition.Manual;
+            reqStatus.Location = this.Location;
             this.Hide();
-            facReqstat.Show();
+            reqStatus.Show();
         }
     }
 }

@@ -77,11 +77,11 @@ namespace Project.HOD
         }
         public void getProject_id()
         {
-            string query = $"SELECT project_id,tile FROM projects";
+            string query = $"SELECT project_id,title FROM projects";
             var conn = DatabaseHelper.Instance.getData(query);
             while (conn.Read())
             {
-                comboBox3.Items.Add(conn["project_id"].ToString() + "_" + conn["title"].ToString());
+                comboBox3.Items.Add(conn["project_id"].ToString() + "-" + conn["title"].ToString());
             }
         }
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
@@ -98,6 +98,11 @@ namespace Project.HOD
 
             Updateproject();
             MessageBox.Show("Project Updated Successfully");
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

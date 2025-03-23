@@ -87,8 +87,6 @@ namespace Project
             password = HashPassword(password);
             string query = $"UPDATE Users SET password_hash = '{password}' WHERE username = '{username}' AND email = '{email}' AND role_id = '{roll_id}'";
             var connect= DatabaseHelper.Instance.Update(query);
-
-
         }
         private string HashPassword(string password)
         {

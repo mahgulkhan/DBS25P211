@@ -15,6 +15,8 @@ namespace Project.HOD
         public UpdateSchedule()
         {
             InitializeComponent();
+            getFaculty_id();
+            getRoom_id();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -76,11 +78,11 @@ namespace Project.HOD
 
         public void getFaculty_id()
         {
-            string query = $"SELECT faculty_course_id,FROM faculty_courses";
+            string query = $"SELECT faculty_courses.faculty_course_id,faculty.name AS faculty_name,courses.course_name FROM faculty_courses JOIN faculty ON faculty_courses.faculty_id = faculty.faculty_id JOIN courses ON faculty_courses.course_id = courses.course_id";
             var conn = DatabaseHelper.Instance.getData(query);
             while (conn.Read())
             {
-                comboBox2.Items.Add(conn["faculty_id"].ToString());
+                comboBox2.Items.Add(conn["faculty_course_id"].ToString() + "-" + conn["faculty_name"].ToString() + "-" + conn["course_name"].ToString());
             }
         }
         public void getRoom_id()
@@ -107,6 +109,11 @@ namespace Project.HOD
 
             Updateschedule();
             MessageBox.Show("Schedule Updated Successfully");
+        }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

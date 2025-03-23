@@ -74,7 +74,7 @@ namespace Project.HOD
             var conn = DatabaseHelper.Instance.getData(query);
             while(conn.Read())
             {
-                comboBox3.Items.Add(conn["project_id"].ToString()+"_" + conn["title"].ToString());
+                comboBox3.Items.Add(conn["project_id"].ToString()+"-" + conn["title"].ToString());
             }
         }
 
@@ -107,6 +107,11 @@ namespace Project.HOD
 
             Addproj();
             MessageBox.Show("Project Supervisor Assigned Successfully");
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

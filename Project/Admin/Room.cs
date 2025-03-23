@@ -57,5 +57,14 @@ namespace Project.Admin
             this.Hide();
             delRoom.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            AdminStaffUI adminStaffUI = new AdminStaffUI();
+            adminStaffUI.StartPosition = FormStartPosition.Manual;
+            adminStaffUI.Location = this.Location;
+            this.Hide();
+            adminStaffUI.Show();
+        }
     }
 }

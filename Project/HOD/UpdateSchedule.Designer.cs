@@ -45,8 +45,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label7 = new System.Windows.Forms.Label();
             this.textBox3 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -87,14 +87,12 @@
             // comboBox2
             // 
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
-            "Theory",
-            "Lab"});
             this.comboBox2.Location = new System.Drawing.Point(280, 293);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(237, 24);
             this.comboBox2.TabIndex = 41;
-            this.comboBox2.Text = "Select Faculty ID";
+            this.comboBox2.Text = "Select Faculty Course ID";
+            this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // textBox1
             // 
@@ -269,6 +267,14 @@
             this.panel1.Size = new System.Drawing.Size(1144, 553);
             this.panel1.TabIndex = 14;
             // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(279, 236);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(232, 22);
+            this.textBox3.TabIndex = 46;
+            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+            // 
             // label7
             // 
             this.label7.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -280,14 +286,6 @@
             this.label7.Size = new System.Drawing.Size(241, 28);
             this.label7.TabIndex = 32;
             this.label7.Text = "Faculty Schedule ID";
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(279, 236);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(232, 22);
-            this.textBox3.TabIndex = 46;
-            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // UpdateSchedule
             // 

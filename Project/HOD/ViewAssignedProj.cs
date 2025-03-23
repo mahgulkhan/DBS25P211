@@ -20,7 +20,7 @@ namespace Project.HOD
 
         public void ShowProj()
         {
-            string query = "SELECT faculty_projects.faculty_project_id,faculty.faculty_id,projects.project_id, projects.title, semesters.semester_id, faculty_projects.supervision_hours FROM faculty_projects JOIN faculty ON faculty_projects.faculty_id = faculty.faculty_id JOIN projects ON projects.project_id= faculty_projects.project_id";
+            string query = "SELECT faculty_projects.faculty_project_id,faculty.faculty_id,projects.project_id, projects.title, faculty_projects.semester_id, faculty_projects.supervision_hours FROM faculty_projects JOIN faculty ON faculty_projects.faculty_id = faculty.faculty_id JOIN projects ON projects.project_id= faculty_projects.project_id";
             var conn = DatabaseHelper.Instance.getData(query);
             DataTable data = new DataTable();
             data.Load(conn);
